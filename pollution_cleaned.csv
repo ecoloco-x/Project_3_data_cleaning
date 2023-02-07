@@ -167,36 +167,36 @@
 165,10/06/2004,Cairns,Ship,Unknown,port limits,Thursday Island,bilge,unknown
 166,14/06/2004,Brisbane,Land,Unknown,port limits,"Caltex, Fishermans Islands Berth",diesel,unknown
 167,2/07/2004,Brisbane,Ship,Commercial,coastal waters,"Brisbane River, Eagle St Pier",sheen,unknown
-168,27/07/2004,Cairns,Ship,Commercial,port limits,"Between D Finger CFB 1 & TR slipway, Trinity Inlet/ Smiths Creek",bilge,20
-169,29/07/2004,Cairns,Unknown,Unknown,port limits,From Sinrab Point to Wharf 7,sheen,50
+168,27/07/2004,Cairns,Ship,Commercial,port limits,"Between D Finger CFB 1 & TR slipway, Trinity Inlet/ Smiths Creek",bilge,20.0
+169,29/07/2004,Cairns,Unknown,Unknown,port limits,From Sinrab Point to Wharf 7,sheen,50.0
 170,29/07/2004,Mackay,Unknown,Unknown,coastal waters,"Tongue Bay, Whitsunday Island",unknown,unknown
 171,30/07/2004,Brisbane,Land,Unknown,coastal waters,"Helicopter Pontoon, South Bank Reach",other,unknown
-172,30/07/2004,Cairns,Ship,Commercial,port limits,D Finger Commercial Fishermans Base #1,bilge,5
+172,30/07/2004,Cairns,Ship,Commercial,port limits,D Finger Commercial Fishermans Base #1,bilge,5.0
 173,8/08/2004,Cairns,Ship,Commercial,coastal waters,Fairway Channel near Pipin Reef,sheen,unknown
-174,9/08/2004,Cairns,Ship,Unknown,port limits,E. Finger Marlin Marina,diesel,15
-175,16/08/2004,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island",sheen,6
+174,9/08/2004,Cairns,Ship,Unknown,port limits,E. Finger Marlin Marina,diesel,15.0
+175,16/08/2004,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island",sheen,6.0
 176,16/08/2004,Mackay,Ship,Commercial,coastal waters,5 nm NE High Peak Island,bilge,unknown
 177,17/08/2004,Gladstone,Unknown,Unknown,coastal waters,Great Keppel Island,bilge,unknown
 178,24/08/2004,Cairns,Ship,Commercial,port limits,Thursday Island Harbour,sheen,unknown
-179,24/08/2004,Cairns,Ship,Unknown,port limits,HMAS Cairns base form HMAS Ipswich,diesel,2
+179,24/08/2004,Cairns,Ship,Unknown,port limits,HMAS Cairns base form HMAS Ipswich,diesel,2.0
 180,2/09/2004,Brisbane,Land,Unknown,coastal waters,Storm water drain between North Key and William Jolly Bridge,other,unknown
-181,7/09/2004,Brisbane,Ship,Commercial,port limits,"Raptis Wharf, Brisbane River",other,40
-182,9/09/2004,Cairns,Unknown,Unknown,port limits,Between #10 South Dolphin and naval base,sheen,5
-183,18/09/2004,Brisbane,Ship,Recreational,port limits,"112 Quay St, Bulimba, Brisbane River",diesel,5
+181,7/09/2004,Brisbane,Ship,Commercial,port limits,"Raptis Wharf, Brisbane River",other,40.0
+182,9/09/2004,Cairns,Unknown,Unknown,port limits,Between #10 South Dolphin and naval base,sheen,5.0
+183,18/09/2004,Brisbane,Ship,Recreational,port limits,"112 Quay St, Bulimba, Brisbane River",diesel,5.0
 184,28/09/2004,Brisbane,Unknown,Unknown,coastal waters,"Mooloolah River, Mooloolaba",diesel,unknown
-185,28/09/2004,Cairns,Ship,Recreational,port limits,Sail Fish Quay Marlin Marina,bilge,60
+185,28/09/2004,Cairns,Ship,Recreational,port limits,Sail Fish Quay Marlin Marina,bilge,60.0
 186,29/09/2004,Townsville,Ship,Unknown,coastal waters,"Rowes Bay, Bowen",hfo,unknown
 187,3/10/2004,Mackay,Ship,Recreational,coastal waters,1 km East of Whitsunday Isl Craig,sheen,unknown
 188,4/10/2004,Brisbane,Ship,Commercial,port limits,Outside area of Scarborough Harbour,bilge,unknown
-189,6/10/2004,Cairns,Ship,Commercial,port limits,"Between D Finger CFB 1 and Tropical Reef slipway, Trinity Inlet/ Smiths Creek",bilge,40
+189,6/10/2004,Cairns,Ship,Commercial,port limits,"Between D Finger CFB 1 and Tropical Reef slipway, Trinity Inlet/ Smiths Creek",bilge,40.0
 190,7/10/2004,Brisbane,Unknown,Unknown,port limits,Whyte Island Tug Base,unknown,unknown
 191,10/10/2004,Brisbane,Land,Unknown,coastal waters,"Golden Beach, Pumicestone Passage",diesel,unknown
-192,12/10/2004,Brisbane,Land,Unknown,port limits,Fisherman Is #3 berth,diesel,100
+192,12/10/2004,Brisbane,Land,Unknown,port limits,Fisherman Is #3 berth,diesel,100.0
 193,18/10/2004,Brisbane,Land,Unknown,coastal waters,"Diet Park ferry terminal, St Lucia",other,unknown
 194,18/10/2004,Brisbane,Unknown,Unknown,port limits,"Brisbane River, mouth of Dobey Creek",diesel,unknown
 195,19/10/2004,At Sea,Ship,Commercial,coastal waters,"31 miles to sea, ESE from Pt Lookout, bearing 115",other,unknown
 196,21/10/2004,Mackay,Ship,Commercial,coastal waters,"Centenary Cay, Swains Reef",diesel,unknown
-197,22/10/2004,Brisbane,Ship,Commercial,port limits,Fishermans Islands Berth 7,bilge,500
+197,22/10/2004,Brisbane,Ship,Commercial,port limits,Fishermans Islands Berth 7,bilge,500.0
 198,24/10/2004,Mackay,Ship,Unknown,port limits,Mackay Marina,diesel,unknown
 199,27/10/2004,Brisbane,Unknown,Unknown,coastal waters,Scarborough Harbour,bilge,unknown
 200,31/10/2004,Brisbane,Ship,Commercial,port limits,"Brisbane River, Pikenba no 2 berth",other,unknown
@@ -214,8 +214,8 @@
 212,9/12/2004,Mackay,Ship,Recreational,coastal waters,Repulse Bay leading into Laguna Quays marina,sheen,unknown
 213,25/12/2004,Brisbane,Unknown,Unknown,port limits,"Brisbane River, Bulimba Reach- Bartons Rd, Hawthorne",sheen,unknown
 214,26/12/2004,Townsville,Ship,Commercial,coastal waters,Palm Passage,hfo,unknown
-215,29/12/2004,Cairns,Ship,Commercial,port limits,Trinity Petroleum Fuel Berth,sheen,300
-216,31/01/2005,Brisbane,Unknown,Unknown,coastal waters,"Weinam Creek, Redland Bay (near old water taxi terminal)",diesel,50
+215,29/12/2004,Cairns,Ship,Commercial,port limits,Trinity Petroleum Fuel Berth,sheen,300.0
+216,31/01/2005,Brisbane,Unknown,Unknown,coastal waters,"Weinam Creek, Redland Bay (near old water taxi terminal)",diesel,50.0
 217,1/02/2005,Brisbane,Land,Unknown,coastal waters,"Storm Water Drain into Brisbane River, New Farm (100m upstream Merthyr Rd)",other,unknown
 218,1/02/2005,Townsville,Unknown,Unknown,port limits,"Ross Creek, adjacent to Motor Boat Club, Tomlin St",sheen,unknown
 219,3/02/2005,Brisbane,Ship,Recreational,coastal waters,"Raby Bay Marina, Endeavour Canal, Raby Bay",sheen,unknown
@@ -223,19 +223,19 @@
 221,19/02/2005,Brisbane,Unknown,Unknown,port limits,"Bulimba Reach, Brisbane River",sheen,unknown
 222,24/02/2005,Brisbane,Land,Unknown,port limits,"Boat Passabe , Whyte Island, Brisbane River",sheen,unknown
 223,24/02/2005,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Boat Harbour,diesel,unknown
-224,24/02/2005,Cairns,Ship,Unknown,port limits,"Main Wharf, Thursday Island",diesel,300
+224,24/02/2005,Cairns,Ship,Unknown,port limits,"Main Wharf, Thursday Island",diesel,300.0
 225,25/02/2005,Cairns,Ship,Commercial,coastal waters," Inner Route, North of Cairns",bilge,unknown
 226,7/03/2005,Cairns,Land,Unknown,coastal waters,"Badu Island, Torres Strait",diesel,unknown
 227,9/03/2005,Brisbane,Ship,Recreational,coastal waters,"Newport Waterways Marina, Scarborough",bilge,unknown
 228,30/03/2005,Brisbane,Unknown,Unknown,coastal waters,"Cabbage Tree Creek, Sandgate",sheen,unknown
-229,30/03/2005,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns - betwenCoconut Slipway & Redbank Ck",diesel,10
-230,1/04/2005,Cairns,Unknown,Unknown,port limits,"Commercial Fishermans Base 2, Smiths Creek, Cairns",diesel,5
-231,11/04/2005,Brisbane,Land,Unknown,port limits,"Caincross Bockyard, Brisbane River",bilge,40
+229,30/03/2005,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns - betwenCoconut Slipway & Redbank Ck",diesel,10.0
+230,1/04/2005,Cairns,Unknown,Unknown,port limits,"Commercial Fishermans Base 2, Smiths Creek, Cairns",diesel,5.0
+231,11/04/2005,Brisbane,Land,Unknown,port limits,"Caincross Bockyard, Brisbane River",bilge,40.0
 232,14/04/2005,Brisbane,Unknown,Unknown,port limits,Fishermans Islands #3,sheen,unknown
 233,16/04/2005,Brisbane,Unknown,Unknown,port limits,"Caincross Dockyard, Brisbane River",sheen,unknown
-234,19/04/2005,Cairns,Ship,Unknown,port limits,HMAS Cairns base form HMAS Ipswich,diesel,100
+234,19/04/2005,Cairns,Ship,Unknown,port limits,HMAS Cairns base form HMAS Ipswich,diesel,100.0
 235,22/04/2005,Brisbane,Unknown,Unknown,coastal waters,"Browns Slipway, Nooloola River",sheen,unknown
-236,4/05/2005,Mackay,Ship,Recreational,coastal waters,"Marble Island, Duke Group",diesel,2000
+236,4/05/2005,Mackay,Ship,Recreational,coastal waters,"Marble Island, Duke Group",diesel,2000.0
 237,5/05/2005,Cairns,Ship,Unknown,port limits,Thursday Island Harbour,sheen,unknown
 238,11/05/2005,Brisbane,Unknown,Unknown,port limits,"Cabbage Tree Creek, Sandgate",diesel,unknown
 239,20/05/2005,Cairns,Ship,Unknown,port limits,"Marlin Marina, Cairns",bilge,unknown
@@ -244,48 +244,48 @@
 242,15/06/2005,Brisbane,Unknown,Unknown,coastal waters,"Petrie Bight, Brisbane River",sheen,unknown
 243,20/06/2005,Brisbane,Unknown,Unknown,port limits,Scarborough Harbour,sheen,unknown
 244,29/06/2005,Brisbane,Land,Unknown,port limits,"Fishermans Islands, Brisbane",diesel,unknown
-245,17/07/2005,Cairns,Ship,Commercial,port limits,Thursday Island Harbour,diesel,180
+245,17/07/2005,Cairns,Ship,Commercial,port limits,Thursday Island Harbour,diesel,180.0
 246,10/08/2005,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,other,unknown
 247,16/08/2005,Brisbane,Ship,Recreational,coastal waters,Scarbrough Boat Harbour,lubricant oil,unknown
 248,24/08/2005,Gladstone,Ship,Commercial,port limits,Gladstone Harbour,diesel,unknown
 249,25/08/2005,Cairns,Ship,Commercial,port limits,"Smiths Creek, Cairns",bilge,unknown
 250,31/08/2005,Cairns,Ship,Commercial,port limits,Thursday Island Main Wharf,diesel,unknown
 251,21/09/2005,Cairns,Unknown,Unknown,coastal waters,"Marina Mirage, Port Douglas",diesel,unknown
-252,22/09/2005,Mackay,Unknown,Unknown,port limits,Mackay Marina,diesel,5
+252,22/09/2005,Mackay,Unknown,Unknown,port limits,Mackay Marina,diesel,5.0
 253,6/10/2005,Cairns,Ship,Recreational,coastal waters,"Marina Mirage, Port Douglas",diesel,unknown
-254,6/10/2005,Cairns,Ship,Commercial,port limits,"No. 4 Wharf, Cairns",bilge,5
+254,6/10/2005,Cairns,Ship,Commercial,port limits,"No. 4 Wharf, Cairns",bilge,5.0
 255,7/10/2005,Cairns,Ship,Unknown,coastal waters,"Marina Mirage, Port Douglas",bilge,unknown
 256,10/10/2005,Cairns,Ship,Recreational,port limits,Mourilyan Harbour,diesel,unknown
 257,10/10/2005,Townsville,Ship,Commercial,port limits,"Berth 10, Townsville Harbour",hfo,unknown
 258,11/10/2005,Cairns,Unknown,Unknown,port limits,Thursday Island Harbour,diesel,unknown
 259,15/10/2005,Brisbane,Unknown,Unknown,port limits,"Shaftston Reach, Brisbane River",diesel,unknown
-260,20/10/2005,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Cairns",bilge,20
+260,20/10/2005,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Cairns",bilge,20.0
 261,23/10/2005,Gladstone,Ship,Recreational,coastal waters,"Fitzroy River, Rockhampton",diesel,unknown
 262,28/10/2005,Cairns,Ship,Unknown,port limits,"Marina Mirage, Port Douglas",bilge,unknown
 263,28/10/2005,Cairns,Ship,Commercial,coastal waters,"Mulgrave River, Deeral",bilge,unknown
 264,7/11/2005,Cairns,Ship,Commercial,coastal waters,Armistice Reef,bilge,unknown
 265,8/11/2005,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,sheen,unknown
-266,14/11/2005,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,diesel,10
+266,14/11/2005,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,diesel,10.0
 267,4/12/2005,Cairns,Unknown,Unknown,coastal waters,"Marina Mirage, Port Douglas",diesel,unknown
 268,7/12/2005,Cairns,Unknown,Unknown,port limits,"Commercial Fishermans Base 2, Smiths Creek, Cairns",sheen,unknown
 269,31/12/2005,Cairns,Ship,Recreational,coastal waters,"Marina Mirage, Port Douglas",oil (unspec),unknown
-270,16/01/2006,Gladstone,Ship,Commercial,port limits,Bunker oil spill from Larcom in Gladstone,hfo,1000
-271,20/01/2006,Gladstone,Ship,Commercial,coastal waters,Fire on trawler 28nm NNE Cape Capricorn,diesel,3000
+270,16/01/2006,Gladstone,Ship,Commercial,port limits,Bunker oil spill from Larcom in Gladstone,hfo,1000.0
+271,20/01/2006,Gladstone,Ship,Commercial,coastal waters,Fire on trawler 28nm NNE Cape Capricorn,diesel,3000.0
 272,6/03/2006,Cairns,Ship,Commercial,coastal waters,"Marina Mirage, Port Douglas",diesel,unknown
-273,31/03/2006,Cairns,Unknown,Unknown,port limits,"Commercial Fishermans Base 2, Smiths Creek, Cairns",bilge,20
-274,13/04/2006,Cairns,Ship,Recreational,port limits,"Marlin Marina, Cairns",bilge,20
-275,23/04/2006,Townsville,Land,Unknown,port limits,Berth 4 Townsville - Road tanker refuelling ship,diesel,200
+273,31/03/2006,Cairns,Unknown,Unknown,port limits,"Commercial Fishermans Base 2, Smiths Creek, Cairns",bilge,20.0
+274,13/04/2006,Cairns,Ship,Recreational,port limits,"Marlin Marina, Cairns",bilge,20.0
+275,23/04/2006,Townsville,Land,Unknown,port limits,Berth 4 Townsville - Road tanker refuelling ship,diesel,200.0
 276,26/04/2006,Mackay,Ship,Recreational,coastal waters,"Pioneer Bay, Airlie Beach",sheen,unknown
-277,2/05/2006,Mackay,Ship,Commercial,port limits,Hay Point Anchorage,hydraulic oil,30
-278,30/05/2006,Cairns,Ship,Recreational,coastal waters,"Marina Mirage, Port Douglas",diesel,5
-279,5/06/2006,Townsville,Ship,Unknown,port limits,Reef HQ Wharf Townsville - vessel sunk at wharf,diesel,50
+277,2/05/2006,Mackay,Ship,Commercial,port limits,Hay Point Anchorage,hydraulic oil,30.0
+278,30/05/2006,Cairns,Ship,Recreational,coastal waters,"Marina Mirage, Port Douglas",diesel,5.0
+279,5/06/2006,Townsville,Ship,Unknown,port limits,Reef HQ Wharf Townsville - vessel sunk at wharf,diesel,50.0
 280,20/06/2006,Townsville,Land,Unknown,port limits,"Townsville Harbour Berths 4,6,and 7 -  from stormwater",diesel,unknown
-281,27/06/2006,Brisbane,Ship,Commercial,coastal waters,Gold Coast City Marina - vessel sunk at marina berth,lubricant oil,75
-282,9/07/2006,Mackay,Unknown,Unknown,port limits,Mackay Marina,sheen,1
+281,27/06/2006,Brisbane,Ship,Commercial,coastal waters,Gold Coast City Marina - vessel sunk at marina berth,lubricant oil,75.0
+282,9/07/2006,Mackay,Unknown,Unknown,port limits,Mackay Marina,sheen,1.0
 283,8/08/2006,Cairns,Unknown,Unknown,coastal waters,"Mirana Mirage, Port Douglas",diesel,unknown
 284,12/08/2006,Cairns,Ship,Commercial,coastal waters,Near Hope Island,bilge,unknown
 285,12/08/2006,Gladstone,Ship,Commercial,coastal waters,Rosslyn Bay Boat Harbour - FV Kerry K,diesel,unknown
-286,17/08/2006,Gladstone,Ship,Commercial,port limits,"Fishermans Landing  No.2, Gladstone",lubricant oil,25
+286,17/08/2006,Gladstone,Ship,Commercial,port limits,"Fishermans Landing  No.2, Gladstone",lubricant oil,25.0
 287,25/08/2006,Cairns,Ship,Unknown,coastal waters,Offshore from Port Douglas,unknown,unknown
 288,25/08/2006,Cairns,Ship,Commercial,coastal waters,40 miles SW of Prince of Wales Island,sheen,unknown
 289,4/09/2006,Gladstone,Ship,Commercial,port limits,Gladstone Marina,diesel,unknown
@@ -315,43 +315,43 @@
 313,16/02/2007,Mackay,Ship,Commercial,coastal waters,Deadman Island off Cape Palmerston,bilge,unknown
 314,17/02/2007,Gladstone,Ship,Recreational,coastal waters,"Long Beach, Zitzie - North of Gladstone",diesel,unknown
 315,19/02/2007,Townsville,Ship,Commercial,coastal waters,Cardwell,diesel,unknown
-316,3/03/2007,Mackay,Ship,Commercial,port limits,Mackay Marina,diesel,50
+316,3/03/2007,Mackay,Ship,Commercial,port limits,Mackay Marina,diesel,50.0
 317,5/03/2007,Brisbane,Unknown,Unknown,coastal waters,"Browns Wharf, Mooloolaba",sheen,unknown
 318,6/03/2007,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Boat Harbour,diesel,unknown
 319,9/03/2007,Townsville,Ship,Commercial,coastal waters,17nm East of Magnetic Island - sunken trawler,diesel,unknown
-320,12/03/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,hydraulic oil,15
-321,13/03/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,diesel,3
+320,12/03/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,hydraulic oil,15.0
+321,13/03/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,diesel,3.0
 322,22/03/2007,Brisbane,Unknown,Unknown,coastal waters,Manly Marina,sheen,unknown
 323,27/03/2007,Brisbane,Ship,Recreational,coastal waters,Redland Bay esplanade,other,unknown
 324,28/04/2007,Brisbane,Unknown,Unknown,coastal waters,"Dockside Marina, Brisbane River",diesel,unknown
-325,1/05/2007,Cairns,Ship,Commercial,coastal waters,"Marina Mirage, Port Douglas",diesel,50
+325,1/05/2007,Cairns,Ship,Commercial,coastal waters,"Marina Mirage, Port Douglas",diesel,50.0
 326,2/05/2007,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Boat Harbour,other,unknown
 327,6/05/2007,Brisbane,Ship,Recreational,coastal waters,"Horseshoe Bay, Peel Island",diesel,unknown
-328,12/05/2007,Brisbane,Ship,Recreational,coastal waters,"Paradise Point, Gold Coast",oil (unspec),700
+328,12/05/2007,Brisbane,Ship,Recreational,coastal waters,"Paradise Point, Gold Coast",oil (unspec),700.0
 329,13/05/2007,Brisbane,Land,Unknown,port limits,"Shell Terminal, Pinkenba, Brisbane River",sheen,unknown
 330,16/05/2007,Brisbane,Unknown,Unknown,port limits,"Fisherman Islands, Berth 8, Brisbane River",sheen,unknown
-331,21/05/2007,Brisbane,Ship,Commercial,port limits,"No16 beacon, Bar Cutting, Brisbane",hydraulic oil,7
+331,21/05/2007,Brisbane,Ship,Commercial,port limits,"No16 beacon, Bar Cutting, Brisbane",hydraulic oil,7.0
 332,21/05/2007,Brisbane,Unknown,Unknown,port limits,"Snapper Creek, Tin Can Bay",diesel,unknown
 333,23/05/2007,Brisbane,Land,Unknown,port limits,"Caltex Crude Berth, Fisherman Islands",other,0.2
-334,26/05/2007,Mackay,Unknown,Unknown,coastal waters,"Abel Point Marina, Airlie Beach",sheen,2
+334,26/05/2007,Mackay,Unknown,Unknown,coastal waters,"Abel Point Marina, Airlie Beach",sheen,2.0
 335,28/05/2007,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Boat Harbour,sheen,unknown
-336,29/05/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,bilge,10
-337,30/05/2007,Mackay,Ship,Commercial,coastal waters,"Abel Point Marina, Airlie Beach",bilge,20
-338,8/06/2007,Gladstone,Ship,Unknown,port limits,"Auckland Point, Gladstone",diesel,20
-339,10/07/2007,Townsville,Ship,Commercial,port limits,"Berth 4, Townsville Port",diesel,200
+336,29/05/2007,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,bilge,10.0
+337,30/05/2007,Mackay,Ship,Commercial,coastal waters,"Abel Point Marina, Airlie Beach",bilge,20.0
+338,8/06/2007,Gladstone,Ship,Unknown,port limits,"Auckland Point, Gladstone",diesel,20.0
+339,10/07/2007,Townsville,Ship,Commercial,port limits,"Berth 4, Townsville Port",diesel,200.0
 340,18/07/2007,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Yacht Club,diesel,unknown
-341,22/07/2007,Townsville,Unknown,Unknown,port limits,"Ross River, Townsville",lubricant oil,30
+341,22/07/2007,Townsville,Unknown,Unknown,port limits,"Ross River, Townsville",lubricant oil,30.0
 342,1/08/2007,Brisbane,Unknown,Unknown,coastal waters,"Mooloolaba, Browns Slipway",diesel,unknown
-343,10/08/2007,Gladstone,Ship,Commercial,port limits,"Snapper Creek, Tin Can Bay",diesel,200
-344,18/08/2007,Brisbane,Ship,Commercial,port limits,Brisbane Cruise Ship Terminal,diesel,3
-345,20/08/2007,Brisbane,Unknown,Unknown,coastal waters,"Mooloolaba, Debretts Wharf",diesel,1
+343,10/08/2007,Gladstone,Ship,Commercial,port limits,"Snapper Creek, Tin Can Bay",diesel,200.0
+344,18/08/2007,Brisbane,Ship,Commercial,port limits,Brisbane Cruise Ship Terminal,diesel,3.0
+345,20/08/2007,Brisbane,Unknown,Unknown,coastal waters,"Mooloolaba, Debretts Wharf",diesel,1.0
 346,21/08/2007,Cairns,Unknown,Unknown,coastal waters,Coleman River,diesel,unknown
 347,25/08/2007,Mackay,Unknown,Unknown,coastal waters,Seaward of Hay Point,sheen,unknown
 348,26/08/2007,Brisbane,Ship,Recreational,coastal waters,Noosa River,diesel,unknown
 349,31/08/2007,Mackay,Unknown,Unknown,coastal waters,"Armstrong Beach, Sarina",other,unknown
-350,5/09/2007,Townsville,Ship,Commercial,coastal waters,Orpheus Island,diesel,200
-351,11/09/2007,Mackay,Ship,Commercial,coastal waters,"Swain Reef, - FV Jagger sunk",diesel,7000
-352,12/09/2007,Mackay,Ship,Recreational,coastal waters,7.5nm NE Mackay,oil (unspec),40
+350,5/09/2007,Townsville,Ship,Commercial,coastal waters,Orpheus Island,diesel,200.0
+351,11/09/2007,Mackay,Ship,Commercial,coastal waters,"Swain Reef, - FV Jagger sunk",diesel,7000.0
+352,12/09/2007,Mackay,Ship,Recreational,coastal waters,7.5nm NE Mackay,oil (unspec),40.0
 353,27/09/2007,Brisbane,Ship,Recreational,coastal waters,Wynnum Creek,sheen,unknown
 354,30/09/2007,Cairns,Ship,Commercial,coastal waters,Turtle Cove between Cairns and Port Douglas,hfo,unknown
 355,30/09/2007,Gladstone,Ship,Commercial,coastal waters,Urangan Boat Harbour,bilge,unknown
@@ -368,59 +368,59 @@
 366,27/11/2007,Cairns,Unknown,Unknown,port limits,"Cairns, Tropical Reef Slipway",sheen,unknown
 367,6/12/2007,Cairns,Ship,Commercial,coastal waters,"Cairns, Mulgrave River",diesel,unknown
 368,27/12/2007,Cairns,Unknown,Unknown,coastal waters,"Maria Creek, Silkwood",diesel,unknown
-369,1/01/2008,Brisbane,Ship,Recreational,coastal waters,"Dockside Marine, Brisbane River",diesel,100
+369,1/01/2008,Brisbane,Ship,Recreational,coastal waters,"Dockside Marine, Brisbane River",diesel,100.0
 370,14/01/2008,Mackay,Unknown,Unknown,coastal waters,"Pioneer River, Mackay",sheen,unknown
-371,15/01/2008,Cairns,Ship,Unknown,port limits,"NQEA Slipway, Cairns",diesel,10
+371,15/01/2008,Cairns,Ship,Unknown,port limits,"NQEA Slipway, Cairns",diesel,10.0
 372,16/01/2008,Mackay,Ship,Commercial,port limits,Hay Point Anchorage,sheen,unknown
-373,21/01/2008,Brisbane,Ship,Recreational,coastal waters,Raby Bay Marina,diesel,20
-374,31/01/2008,Cairns,Ship,Commercial,port limits,Cairns Berth 4/5,hfo,50
+373,21/01/2008,Brisbane,Ship,Recreational,coastal waters,Raby Bay Marina,diesel,20.0
+374,31/01/2008,Cairns,Ship,Commercial,port limits,Cairns Berth 4/5,hfo,50.0
 375,3/02/2008,Gladstone,Unknown,Unknown,coastal waters,"Hervey Bay Boat Club, Urangan",sheen,unknown
 376,4/02/2008,Brisbane,Ship,Commercial,coastal waters,"One Mile anchorage , Stradbroke Island",diesel,unknown
 377,4/02/2008,Gladstone,Ship,Commercial,coastal waters,Cassuarina creek,diesel,unknown
 378,17/02/2008,Gladstone,Unknown,Unknown,coastal waters,"Snapper Creek, Tin Can Bay",diesel,unknown
-379,8/03/2008,Brisbane,Ship,Commercial,port limits,"Aquarium Passage, Brisbane",diesel,5
-380,14/03/2008,Mackay,Ship,Commercial,coastal waters,"Abel Point Marina, Airlie Beach",bilge,25
+379,8/03/2008,Brisbane,Ship,Commercial,port limits,"Aquarium Passage, Brisbane",diesel,5.0
+380,14/03/2008,Mackay,Ship,Commercial,coastal waters,"Abel Point Marina, Airlie Beach",bilge,25.0
 381,19/03/2008,Cairns,Ship,Unknown,port limits,"HMAS Cairns, Cairns",lubricant oil,0.5
 382,23/03/2008,Brisbane,Ship,Recreational,coastal waters,"Karragarra Island, Moreton Bay",diesel,unknown
 383,6/04/2008,Brisbane,Ship,Recreational,coastal waters,"Dockside Marine, Brisbane River",diesel,unknown
 384,8/04/2008,Cairns,Unknown,Unknown,port limits,"Trawler Base, Smiths Creek, Cairns",sheen,unknown
-385,12/04/2008,Gladstone,Ship,Commercial,port limits,Gladstone Marina,diesel,50
+385,12/04/2008,Gladstone,Ship,Commercial,port limits,Gladstone Marina,diesel,50.0
 386,21/04/2008,Gladstone,Ship,Commercial,port limits,Gladstone Marina,sheen,unknown
 387,24/04/2008,Townsville,Land,Unknown,port limits,Townsville Port Berth 1,diesel,unknown
-388,26/04/2008,Gladstone,Ship,Recreational,coastal waters,Pancake Creek,diesel,300
+388,26/04/2008,Gladstone,Ship,Recreational,coastal waters,Pancake Creek,diesel,300.0
 389,10/05/2008,Brisbane,Ship,Recreational,coastal waters,"Kangaroo Island, Southern Moreton Bay",hydraulic oil,unknown
 390,16/05/2008,Brisbane,Unknown,Unknown,coastal waters,Russell Island,bilge,unknown
 391,17/05/2008,Gladstone,Ship,Commercial,coastal waters,Lady Elliott Island,hfo,unknown
 392,25/05/2008,Gladstone,Ship,Commercial,port limits,"Gladstone , Boyne Whard",other,unknown
-393,28/05/2008,Townsville,Ship,Commercial,port limits,"Townsville, Ross Creek",hydraulic oil,1
+393,28/05/2008,Townsville,Ship,Commercial,port limits,"Townsville, Ross Creek",hydraulic oil,1.0
 394,9/06/2008,Brisbane,Unknown,Unknown,coastal waters,"Brisbane River, Teneriffe ferry terminal",other,unknown
-395,17/06/2008,Gladstone,Land,Unknown,port limits,Gladstone Marina,diesel,77
+395,17/06/2008,Gladstone,Land,Unknown,port limits,Gladstone Marina,diesel,77.0
 396,18/06/2008,Brisbane,Unknown,Unknown,coastal waters,Cabbage Tree Creek Shornecliffe,diesel,unknown
-397,18/06/2008,Brisbane,Ship,Commercial,port limits,"Tug base, Whyte Island",diesel,100
+397,18/06/2008,Brisbane,Ship,Commercial,port limits,"Tug base, Whyte Island",diesel,100.0
 398,26/06/2008,Brisbane,Unknown,Unknown,coastal waters,"Tlimbah Creek, Toorbul",diesel,unknown
 399,7/07/2008,Gladstone,Land,Unknown,port limits,"Boyne Smelter Wharf, Gladstone",other,unknown
 400,8/07/2008,Gladstone,Land,Unknown,port limits,"Boyne Smelter Wharf, Gladstone",other,unknown
 401,16/07/2008,Cairns,Unknown,Unknown,coastal waters,"Johnston Harbour, Innisfail",diesel,unknown
 402,20/07/2008,Gladstone,Unknown,Unknown,coastal waters,"Hervey Bay Boat Harbour, Urangan",sheen,unknown
 403,30/07/2008,Brisbane,Unknown,Unknown,coastal waters,"Mooloolaba Marina, Mooloolaba",diesel,unknown
-404,30/07/2008,Gladstone,Ship,Commercial,port limits,"Auckland Channel, Gladstone",hydraulic oil,4
+404,30/07/2008,Gladstone,Ship,Commercial,port limits,"Auckland Channel, Gladstone",hydraulic oil,4.0
 405,30/07/2008,Townsville,Unknown,Unknown,coastal waters,15 miles East of Lucinda,other,unknown
 406,6/08/2008,Mackay,Ship,Recreational,coastal waters,"Abel Point Marina, Airlie Beach",diesel,unknown
-407,8/08/2008,Gladstone,Land,Unknown,port limits,Fishermans Landing,lubricant oil,1
-408,13/08/2008,Mackay,Ship,Commercial,port limits,"Berth 1, Mackay Harbour",diesel,10
+407,8/08/2008,Gladstone,Land,Unknown,port limits,Fishermans Landing,lubricant oil,1.0
+408,13/08/2008,Mackay,Ship,Commercial,port limits,"Berth 1, Mackay Harbour",diesel,10.0
 409,21/08/2008,Brisbane,Ship,Commercial,port limits,"Bar Cutting, Brisbane",soot,unknown
-410,2/09/2008,Townsville,Ship,Commercial,coastal waters,"Nelly Bay, Magnetic Island",diesel,300
+410,2/09/2008,Townsville,Ship,Commercial,coastal waters,"Nelly Bay, Magnetic Island",diesel,300.0
 411,13/09/2008,Gladstone,Unknown,Unknown,port limits,"Carlo Creek, Tin Can Bay",diesel,unknown
 412,15/09/2008,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Harbour,sheen,unknown
 413,9/10/2008,Mackay,Unknown,Unknown,port limits,Dalrymple Bay Terminal,sheen,unknown
-414,13/10/2008,Brisbane,Ship,Commercial,port limits,"Caltex Products Wharf, Lytton",hfo,100
+414,13/10/2008,Brisbane,Ship,Commercial,port limits,"Caltex Products Wharf, Lytton",hfo,100.0
 415,22/10/2008,Mackay,Ship,Recreational,coastal waters,"Pioneer Bay, Airlie Beach",diesel,unknown
-416,24/10/2008,Mackay,Ship,Commercial,port limits,"Mackay Marina, Mackay",diesel,10
+416,24/10/2008,Mackay,Ship,Commercial,port limits,"Mackay Marina, Mackay",diesel,10.0
 417,9/11/2008,Mackay,Ship,Unknown,port limits,"Mackay Marina, Mackay",diesel,unknown
 418,17/11/2008,Gladstone,Ship,Recreational,coastal waters,"Hervey Bay Boat Harbour, Urangan",diesel,unknown
 419,21/11/2008,Mackay,Land,Unknown,port limits,Dalrymple Bay Terminal,hydraulic oil,unknown
 420,1/12/2008,Gladstone,Ship,Commercial,port limits,"E3 Anchorge, Gladstone",unknown,unknown
-421,1/12/2008,Mackay,Land,Unknown,port limits,Dalrymple Bay Terminal,hydraulic oil,5
+421,1/12/2008,Mackay,Land,Unknown,port limits,Dalrymple Bay Terminal,hydraulic oil,5.0
 422,10/12/2008,Townsville,Unknown,Unknown,port limits,"Ross Creek, Townsville",diesel,unknown
 423,17/12/2008,Brisbane,Ship,Recreational,coastal waters,Raby Bay Marina,diesel,unknown
 424,27/12/2008,Brisbane,Ship,Commercial,coastal waters,"Flinders Reef, Moreton Island, SEQ",diesel,unknown
@@ -428,286 +428,286 @@
 426,5/01/2009,Gladstone,Unknown,Unknown,port limits,"Town Reach, Burnett River, Bundaberg",diesel,unknown
 427,26/01/2009,Brisbane,Ship,Commercial,coastal waters,Marina Mirage,diesel,unknown
 428,29/01/2009,Cairns,Ship,Commercial,port limits,Wharf 7/8 Cairns,sheen,unknown
-429,29/01/2009,Townsville,Land,Unknown,port limits,Ross Haven slipway Ross River Townsville,diesel,50
+429,29/01/2009,Townsville,Land,Unknown,port limits,Ross Haven slipway Ross River Townsville,diesel,50.0
 430,31/01/2009,Brisbane,Ship,Recreational,port limits,Dockside Marina Kangaroo Point Brisbane river,bilge,unknown
 431,1/02/2009,Gladstone,Ship,Commercial,port limits,Emperor Street slipway Tin Can Bay,diesel,unknown
 432,1/02/2009,Gladstone,Ship,Commercial,port limits,Burnett River Bundaberg,diesel,unknown
-433,1/02/2009,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,20
+433,1/02/2009,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,20.0
 434,3/02/2009,Gladstone,Unknown,Unknown,coastal waters,Capricorn Channel,unknown,unknown
-435,10/02/2009,Gladstone,Ship,Commercial,port limits,North Channel Gladstone Harbour,diesel,20
+435,10/02/2009,Gladstone,Ship,Commercial,port limits,North Channel Gladstone Harbour,diesel,20.0
 436,19/02/2009,Brisbane,Unknown,Unknown,coastal waters,Wynnum Creek,sheen,unknown
-437,27/02/2009,Gladstone,Land,Unknown,port limits,Walby Creek Gladstone,diesel,1000
-438,11/03/2009,Brisbane,Ship,Commercial,coastal waters,Approximatly 7 Nm East Cape Moreton Island,hfo,"270,000"
+437,27/02/2009,Gladstone,Land,Unknown,port limits,Walby Creek Gladstone,diesel,1000.0
+438,11/03/2009,Brisbane,Ship,Commercial,coastal waters,Approximatly 7 Nm East Cape Moreton Island,hfo,270000.0
 439,4/06/2009,Townsville,Unknown,Unknown,coastal waters,Approximatly 10 Nm South of Palm Island,other,unknown
-440,8/06/2009,Cairns,Ship,Unknown,port limits,Endeavour River Cooktown,diesel,50
-441,15/06/2009,Cairns,Ship,Commercial,coastal waters,Green Island Jetty,diesel,200
-442,22/06/2009,Cairns,Ship,Commercial,coastal waters,Flattery Harbour,diesel,2000
+440,8/06/2009,Cairns,Ship,Unknown,port limits,Endeavour River Cooktown,diesel,50.0
+441,15/06/2009,Cairns,Ship,Commercial,coastal waters,Green Island Jetty,diesel,200.0
+442,22/06/2009,Cairns,Ship,Commercial,coastal waters,Flattery Harbour,diesel,2000.0
 443,22/06/2009,Townsville,Unknown,Unknown,port limits,Roos Creek between Reef HQ and marina berths,diesel,unknown
-444,26/06/2009,Brisbane,Unknown,Commercial,port limits,Tangalooma Flyer wharf Holt St Eagle Farm,sheen,60
+444,26/06/2009,Brisbane,Unknown,Commercial,port limits,Tangalooma Flyer wharf Holt St Eagle Farm,sheen,60.0
 445,26/06/2009,Cairns,Land,Unknown,port limits,Canecutters wharf Innisfail,oil (unspec),unknown
-446,13/07/2009,Mackay,Ship,Unknown,coastal waters,Outside of Abel Point Marina Pioneer Bay Whitsunday,lubricant oil,10
-447,15/07/2009,Townsville,Ship,Commercial,coastal waters,Inner shipping route from Holborne Is to Palm Is.,lubricant oil,200
-448,28/07/2009,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,bilge,35
+446,13/07/2009,Mackay,Ship,Unknown,coastal waters,Outside of Abel Point Marina Pioneer Bay Whitsunday,lubricant oil,10.0
+447,15/07/2009,Townsville,Ship,Commercial,coastal waters,Inner shipping route from Holborne Is to Palm Is.,lubricant oil,200.0
+448,28/07/2009,Cairns,Unknown,Unknown,port limits,Marlin Marina Cairns,bilge,35.0
 449,23/08/2009,Gladstone,Unknown,Unknown,port limits,Mouth of Auckland creek Gladstone Harbour,unknown,unknown
-450,16/09/2009,Brisbane,Unknown,Unknown,port limits,Brisbane River,diesel,20
-451,18/09/2009,Brisbane,Ship,Commercial,port limits,"Fisherman Islands Berth 2, Brisbane",hfo,5
+450,16/09/2009,Brisbane,Unknown,Unknown,port limits,Brisbane River,diesel,20.0
+451,18/09/2009,Brisbane,Ship,Commercial,port limits,"Fisherman Islands Berth 2, Brisbane",hfo,5.0
 452,27/09/2009,Cairns,Unknown,Unknown,coastal waters,Clump Point Mission Beach,sheen,unknown
 453,6/10/2009,Brisbane,Unknown,Unknown,coastal waters,Wynnum creek,sheen,unknown
 454,18/10/2009,Mackay,Ship,Commercial,port limits,Hay Point,hfo,unknown
-455,23/10/2009,Townsville,Ship,Commercial,port limits,Ross river,hydraulic oil,50
-456,30/10/2009,Brisbane,Ship,Recreational,coastal waters,Weinam creek,diesel,50
-457,4/12/2009,Townsville,Ship,Commercial,port limits,Ross creek,diesel,2
+455,23/10/2009,Townsville,Ship,Commercial,port limits,Ross river,hydraulic oil,50.0
+456,30/10/2009,Brisbane,Ship,Recreational,coastal waters,Weinam creek,diesel,50.0
+457,4/12/2009,Townsville,Ship,Commercial,port limits,Ross creek,diesel,2.0
 458,12/12/2009,Cairns,Ship,Commercial,port limits,Norman River Karumba,diesel,unknown
 459,13/12/2009,Brisbane,Unknown,Unknown,coastal waters,Eastern side of Cleveland Point Moreton Bay,bilge,unknown
 460,4/01/2010,Gladstone,Unknown,Unknown,port limits,Auckland creek Gladstone Harbour,diesel,unknown
-461,5/01/2010,Mackay,Ship,Commercial,port limits,Hay Point,hfo,50
-462,9/01/2010,Brisbane,Ship,Commercial,port limits,Fisherman Is Brisbane River,hfo,20
+461,5/01/2010,Mackay,Ship,Commercial,port limits,Hay Point,hfo,50.0
+462,9/01/2010,Brisbane,Ship,Commercial,port limits,Fisherman Is Brisbane River,hfo,20.0
 463,18/01/2010,Gladstone,Land,Unknown,coastal waters,Rosslyn Bay Marina,diesel,unknown
 464,20/01/2010,Brisbane,Ship,Recreational,port limits,Breakfast creek Brisbane River,diesel,unknown
 465,2/02/2010,Mackay,Unknown,Unknown,coastal waters,Shute Harbour Marina,diesel,unknown
 466,16/02/2010,Brisbane,Unknown,Unknown,port limits,Tangalooma ferry terminal Brisbane River,unknown,unknown
-467,16/02/2010,Townsville,Unknown,Unknown,port limits,Ross River,sheen,10
-468,23/02/2010,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,diesel,8
+467,16/02/2010,Townsville,Unknown,Unknown,port limits,Ross River,sheen,10.0
+468,23/02/2010,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,diesel,8.0
 469,26/02/2010,Brisbane,Ship,Commercial,coastal waters,Tangalooma jetty Moreton Is,diesel,unknown
-470,18/03/2010,Cairns,Ship,Recreational,coastal waters,Yorkeys Knob Marina,diesel,1000
+470,18/03/2010,Cairns,Ship,Recreational,coastal waters,Yorkeys Knob Marina,diesel,1000.0
 471,31/03/2010,Brisbane,Ship,Commercial,coastal waters,Mooloolaba Boat Harbour,diesel,unknown
-472,13/04/2010,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,10
-473,14/04/2010,Cairns,Ship,Commercial,port limits,Cooktown Harbour,diesel,20
+472,13/04/2010,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,10.0
+473,14/04/2010,Cairns,Ship,Commercial,port limits,Cooktown Harbour,diesel,20.0
 474,20/04/2010,Gladstone,Ship,Recreational,port limits,Mary River Maryborough,diesel,unknown
 475,21/04/2010,Brisbane,Unknown,Unknown,coastal waters,Manly Harbour Brisbane,diesel,unknown
 476,25/04/2010,Brisbane,Ship,Recreational,coastal waters,Pacific Harbour Marina Bribie Is,diesel,unknown
 477,11/05/2010,Townsville,Unknown,Unknown,port limits,Ross River,diesel,unknown
-478,13/05/2010,Cairns,Ship,Commercial,port limits,Wharf No. 8 Cairns Port,diesel,3
-479,27/05/2010,Cairns,Ship,Commercial,port limits,Masons wharf Cairns Harbour,diesel,5
-480,5/07/2010,Townsville,Unknown,Unknown,port limits,"Sunferries breakwater terminal, Ross Creek",diesel,5
-481,23/07/2010,Brisbane,Ship,Commercial,port limits,"Fisherman Islands Coal Terminal, Brisbane",hfo,30
+478,13/05/2010,Cairns,Ship,Commercial,port limits,Wharf No. 8 Cairns Port,diesel,3.0
+479,27/05/2010,Cairns,Ship,Commercial,port limits,Masons wharf Cairns Harbour,diesel,5.0
+480,5/07/2010,Townsville,Unknown,Unknown,port limits,"Sunferries breakwater terminal, Ross Creek",diesel,5.0
+481,23/07/2010,Brisbane,Ship,Commercial,port limits,"Fisherman Islands Coal Terminal, Brisbane",hfo,30.0
 482,25/07/2010,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba,diesel,unknown
 483,28/07/2010,Gladstone,Unknown,Unknown,port limits,"South Trees West Wharf, Gladstone",diesel,unknown
-484,13/08/2010,Gladstone,Land,Unknown,port limits,"South Trees East Wharf, Gladstone",hfo,100
-485,18/08/2010,Townsville,Ship,Recreational,port limits,"Breakwater Marina Development site, Townsville",diesel,300
+484,13/08/2010,Gladstone,Land,Unknown,port limits,"South Trees East Wharf, Gladstone",hfo,100.0
+485,18/08/2010,Townsville,Ship,Recreational,port limits,"Breakwater Marina Development site, Townsville",diesel,300.0
 486,6/09/2010,Brisbane,Land,Unknown,port limits,"Brisbane River, downstream near CAPR",diesel,unknown
 487,14/10/2010,Mackay,Ship,Unknown,port limits,Mackay Harbour Entrance,bilge,unknown
 488,20/10/2010,Brisbane,Unknown,Unknown,port limits," Pinkenba Reach, Brisbane River",other,unknown
 489,30/10/2010,Mackay,Unknown,Unknown,coastal waters,"Blue Bay, Dalphin Pt",diesel,unknown
-490,2/11/2010,Brisbane,Ship,Recreational,coastal waters,"Horizon Shores Marina, Gold Coast",hydraulic oil,10
+490,2/11/2010,Brisbane,Ship,Recreational,coastal waters,"Horizon Shores Marina, Gold Coast",hydraulic oil,10.0
 491,7/11/2010,Gladstone,Unknown,Unknown,coastal waters,"South of India Head, Fraser Island",hfo,unknown
-492,14/11/2010,Cairns,Ship,Commercial,port limits,"Meridian Marina, Port Douglas",diesel,200
+492,14/11/2010,Cairns,Ship,Commercial,port limits,"Meridian Marina, Port Douglas",diesel,200.0
 493,18/11/2010,Brisbane,Unknown,Unknown,coastal waters,"Aquatic Paradise, Moreton Bay",bilge,unknown
-494,25/11/2010,Brisbane,Ship,Commercial,port limits,"John Oxley II Berth, Brisbane River",hydraulic oil,20
-495,8/12/2010,Cairns,Ship,Commercial,coastal waters,Lizard Island,diesel,120
+494,25/11/2010,Brisbane,Ship,Commercial,port limits,"John Oxley II Berth, Brisbane River",hydraulic oil,20.0
+495,8/12/2010,Cairns,Ship,Commercial,coastal waters,Lizard Island,diesel,120.0
 496,5/01/2011,Cairns,Unknown,Unknown,coastal waters,"Endeavour River, Cooktown",diesel,unknown
-497,8/01/2011,Gladstone,Ship,Commercial,coastal waters,"China Bay, Curtis Island Gladstone",hydraulic oil,10
-498,10/01/2011,Gladstone,Ship,Recreational,coastal waters,"Garrys Anchorage, Great Sanbds Straits",oil (unspec),40
+497,8/01/2011,Gladstone,Ship,Commercial,coastal waters,"China Bay, Curtis Island Gladstone",hydraulic oil,10.0
+498,10/01/2011,Gladstone,Ship,Recreational,coastal waters,"Garrys Anchorage, Great Sanbds Straits",oil (unspec),40.0
 499,11/02/2011,Brisbane,Ship,Recreational,port limits,"Rivergate Marina, Brisbane River",diesel,unknown
-500,11/02/2011,Gladstone,Ship,Commercial,port limits,"Auckland Pt Wharf, Gladstone Harbour",diesel,15
+500,11/02/2011,Gladstone,Ship,Commercial,port limits,"Auckland Pt Wharf, Gladstone Harbour",diesel,15.0
 501,15/02/2011,Cairns,Unknown,Unknown,coastal waters,"Smiths Creek, Cairns",sheen,unknown
 502,15/02/2011,Cairns,Unknown,Unknown,coastal waters,"Low Isles, north of Cairns",sheen,unknown
 503,17/02/2011,Brisbane,Ship,Commercial,port limits,"Fisherman Islands Berth 3, Brisbane",hydraulic oil,unknown
 504,2/03/2011,Cairns,Unknown,Unknown,coastal waters,"Prince of Wales Island, Torres Strait",sheen,unknown
 505,4/03/2011,Gladstone,Unknown,Unknown,coastal waters,"10' offshore, 40' south of Bustard Head",hfo,unknown
-506,8/03/2011,Cairns,Ship,Commercial,coastal waters,"Great North East, Channel, Torres Straits",hfo,300
-507,15/03/2011,Cairns,Unknown,Unknown,coastal waters,"Trawler Base, Smiths Creek, Cairns",other,20
+506,8/03/2011,Cairns,Ship,Commercial,coastal waters,"Great North East, Channel, Torres Straits",hfo,300.0
+507,15/03/2011,Cairns,Unknown,Unknown,coastal waters,"Trawler Base, Smiths Creek, Cairns",other,20.0
 508,19/03/2011,Brisbane,Unknown,Unknown,coastal waters,Mooloolaba Boat Harbour,diesel,unknown
 509,26/03/2011,Brisbane,Land,Unknown,port limits,Brisbane River Eagle Farm drain,other,unknown
 510,28/03/2011,Brisbane,Ship,Commercial,coastal waters,Scarbough Boat Harbour,diesel,unknown
 511,30/03/2011,Brisbane,Ship,Commercial,coastal waters,"Toondah Harbour Ferriy Terminal, Cleveland",diesel,unknown
-512,6/04/2011,Townsville,Land,Unknown,port limits,Port of Townsville Sugar Terminal,diesel,50
+512,6/04/2011,Townsville,Land,Unknown,port limits,Port of Townsville Sugar Terminal,diesel,50.0
 513,9/04/2011,Brisbane,Unknown,Unknown,coastal waters,"North West Channel Bribie Island, Moreton Bay",sheen,unknown
-514,11/04/2011,Gladstone,Ship,Commercial,port limits,North China Bay construction dock Gladstone Harbour,hydraulic oil,20
+514,11/04/2011,Gladstone,Ship,Commercial,port limits,North China Bay construction dock Gladstone Harbour,hydraulic oil,20.0
 515,19/04/2011,Townsville,Land,Unknown,coastal waters,"Palm Island Jetty, Palm Island",diesel,unknown
 516,7/05/2011,Brisbane,Ship,Recreational,coastal waters,"Tangalooma Wrecks, Moretion Island",diesel,unknown
-517,22/05/2011,Mackay,Unknown,Unknown,port limits,"A Arm, Mackay Marina",diesel,3
+517,22/05/2011,Mackay,Unknown,Unknown,port limits,"A Arm, Mackay Marina",diesel,3.0
 518,12/06/2011,Mackay,Ship,Commercial,port limits,"Dalyrymple Bay Coal Terminal, Berth 4",bilge,unknown
-519,20/06/2011,Mackay,Ship,Commercial,port limits,Mackay Harbour Berth 3,hydraulic oil,4
-520,21/06/2011,Cairns,Ship,Unknown,coastal waters,"Evans Landing Wharf, Weipa",diesel,10
-521,7/07/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 3 (Dredge Site),hydraulic oil,2
-522,10/07/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 3 (Dredge Site),hydraulic oil,2
+519,20/06/2011,Mackay,Ship,Commercial,port limits,Mackay Harbour Berth 3,hydraulic oil,4.0
+520,21/06/2011,Cairns,Ship,Unknown,coastal waters,"Evans Landing Wharf, Weipa",diesel,10.0
+521,7/07/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 3 (Dredge Site),hydraulic oil,2.0
+522,10/07/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 3 (Dredge Site),hydraulic oil,2.0
 523,13/07/2011,Gladstone,Unknown,Unknown,port limits,"Between Q4 and Q6 beacon's in Quion Ccannel, Gladstone",sheen,unknown
-524,14/07/2011,Gladstone,Ship,Commercial,port limits,"LNG Maritime Offload Facility Curtis Island, Gladstone.",hydraulic oil,20
-525,23/07/2011,Gladstone,Unknown,Unknown,port limits,Fishermans Landing (Bechtel Barge Ramp) Gladstone,hydraulic oil,5
+524,14/07/2011,Gladstone,Ship,Commercial,port limits,"LNG Maritime Offload Facility Curtis Island, Gladstone.",hydraulic oil,20.0
+525,23/07/2011,Gladstone,Unknown,Unknown,port limits,Fishermans Landing (Bechtel Barge Ramp) Gladstone,hydraulic oil,5.0
 526,10/08/2011,Mackay,Unknown,Unknown,port limits,"Sand Bay, south of Cape Hillsborough and Belmunda areas",lubricant oil,unknown
-527,14/08/2011,Townsville,Ship,Commercial,port limits,"Augustus Creek, Nelly Bay, Magnetic Island, Townsville",diesel,600
-528,16/08/2011,Gladstone,Ship,Commercial,port limits,"North Passage Island, Gladstone",other,10
+527,14/08/2011,Townsville,Ship,Commercial,port limits,"Augustus Creek, Nelly Bay, Magnetic Island, Townsville",diesel,600.0
+528,16/08/2011,Gladstone,Ship,Commercial,port limits,"North Passage Island, Gladstone",other,10.0
 529,16/08/2011,Mackay,Ship,Recreational,port limits,"Wharf at Pioneer River, Mackay",diesel,unknown
 530,19/08/2011,Cairns,Unknown,Commercial,coastal waters,"10 nautical miles south of Urqhardt Point, Weipa",hfo,unknown
 531,7/09/2011,Cairns,Unknown,Unknown,port limits,Endeovour River Cooktown Harbour,diesel,unknown
-532,12/09/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 1 (Dredge Site),hydraulic oil,2
+532,12/09/2011,Mackay,Ship,Commercial,port limits,Hay Point Berth 1 (Dredge Site),hydraulic oil,2.0
 533,29/09/2011,Brisbane,Land,Unknown,port limits,"Eagle St Pier to Stanford Hotel, Town Reach Brisbane River",diesel,unknown
 534,30/09/2011,Gladstone,Ship,Commercial,port limits,Burnett River Bundaberg,diesel,unknown
 535,10/10/2011,Townsville,Ship,Commercial,port limits,"Ross Haven Marina, Ross River Townsville",bilge,unknown
 536,14/10/2011,Cairns,Land,Unknown,coastal waters,Evans Landing Wharf Weipa,hydraulic oil,unknown
-537,14/10/2011,Gladstone,Ship,Commercial,port limits,North Passage Isl Up stream of Fishermans Landing,hydraulic oil,200
-538,23/10/2011,Cairns,Ship,Commercial,coastal waters,Vacinity of Howick Island Group (FNQ),diesel,400
+537,14/10/2011,Gladstone,Ship,Commercial,port limits,North Passage Isl Up stream of Fishermans Landing,hydraulic oil,200.0
+538,23/10/2011,Cairns,Ship,Commercial,coastal waters,Vacinity of Howick Island Group (FNQ),diesel,400.0
 539,28/10/2011,Brisbane,Ship,Commercial,port limits,Scarborough Marina (Morgans Seafood),bilge,unknown
-540,31/10/2011,Gladstone,Land,Unknown,port limits,GLNG MOF Pioneer Barge Ramp south of China Bay Curtis Island,other,50
+540,31/10/2011,Gladstone,Land,Unknown,port limits,GLNG MOF Pioneer Barge Ramp south of China Bay Curtis Island,other,50.0
 541,2/11/2011,Gladstone,Land,Unknown,port limits,GLNG MOF south of China Bay Curtis Island,hydraulic oil,unknown
-542,21/11/2011,Gladstone,Ship,Commercial,port limits,"North Passage, China Bay",hydraulic oil,50
+542,21/11/2011,Gladstone,Ship,Commercial,port limits,"North Passage, China Bay",hydraulic oil,50.0
 543,23/11/2011,Brisbane,Unknown,Unknown,port limits,"28 Anchorage Drive, Cleveland (canal behind residence)",sheen,unknown
 544,28/11/2011,Mackay,Ship,Commercial,port limits,"Pioneer River, Mackay (Fish supplies Jetty)",diesel,unknown
-545,4/12/2011,Brisbane,Ship,Commercial,port limits,"Brisbane Roads Anchorage, Moreton Bay",diesel,2
-546,7/12/2011,Brisbane,Ship,Commercial,port limits,"Cairnscross Wharf, Brisbane River",diesel,20
-547,8/12/2011,Mackay,Ship,Commercial,port limits,Mackay Harbour - Southern end of Sugar Wharf,diesel,1
+545,4/12/2011,Brisbane,Ship,Commercial,port limits,"Brisbane Roads Anchorage, Moreton Bay",diesel,2.0
+546,7/12/2011,Brisbane,Ship,Commercial,port limits,"Cairnscross Wharf, Brisbane River",diesel,20.0
+547,8/12/2011,Mackay,Ship,Commercial,port limits,Mackay Harbour - Southern end of Sugar Wharf,diesel,1.0
 548,9/12/2011,Brisbane,Unknown,Unknown,port limits,"Pelican Slipway, Moreton Bay",sheen,unknown
-549,12/12/2011,Gladstone,Ship,Commercial,port limits,North Passage Island Channel,hydraulic oil,10
-550,20/12/2011,Townsville,Ship,Recreational,port limits,Ross Creek Boat Ramp pontoon,sheen,3
+549,12/12/2011,Gladstone,Ship,Commercial,port limits,North Passage Island Channel,hydraulic oil,10.0
+550,20/12/2011,Townsville,Ship,Recreational,port limits,Ross Creek Boat Ramp pontoon,sheen,3.0
 551,22/12/2011,Mackay,Ship,Commercial,coastal waters,"East Dimond Inlet, Mackay",sheen,unknown
-552,25/12/2011,Gladstone,Ship,Commercial,port limits,Curtis Island side of Passage Island Channel - adjacent to North Passage Island,hydraulic oil,10
-553,19/01/2012,Mackay,Ship,Commercial,port limits,Hay Point Expansion,hydraulic oil,1
-554,23/01/2012,Brisbane,Ship,Commercial,port limits,"Hamilton berth 4, Brisbane River",hfo,3000
+552,25/12/2011,Gladstone,Ship,Commercial,port limits,Curtis Island side of Passage Island Channel - adjacent to North Passage Island,hydraulic oil,10.0
+553,19/01/2012,Mackay,Ship,Commercial,port limits,Hay Point Expansion,hydraulic oil,1.0
+554,23/01/2012,Brisbane,Ship,Commercial,port limits,"Hamilton berth 4, Brisbane River",hfo,3000.0
 555,6/02/2012,Mackay,Land,Unknown,port limits,Tug Harbour Hay Point,sheen,unknown
-556,15/02/2012,Mackay,Ship,Commercial,port limits,"Lease D, Hay Point",hydraulic oil,1
+556,15/02/2012,Mackay,Ship,Commercial,port limits,"Lease D, Hay Point",hydraulic oil,1.0
 557,1/03/2012,Gladstone,Ship,Recreational,port limits,"Boat Club Marina, Urangan Boat Harbout, Hervey Bay",diesel,unknown
-558,5/03/2012,Mackay,Ship,Commercial,port limits,"Hay Point Expansion, HPE3",sheen,2
+558,5/03/2012,Mackay,Ship,Commercial,port limits,"Hay Point Expansion, HPE3",sheen,2.0
 559,9/03/2012,Mackay,Ship,Commercial,port limits,Hay Point Expansion Zone.,sheen,unknown
 560,14/03/2012,Brisbane,Ship,Recreational,port limits,Horizon Shores Marina Gold Coast,diesel,unknown
 561,23/03/2012,Cairns,Unknown,Unknown,port limits,Tropical Reef slipway. Past Cairns slipway . Smiths Creek,diesel,unknown
 562,28/03/2012,Gladstone,Ship,Recreational,port limits,Curtis Island side of Passage Island Channel - adjacent to North Passage Island,hydraulic oil,unknown
-563,8/04/2012,Townsville,Ship,Commercial,port limits,Berth 4 at Bulk Sugar Wharf Townsville,diesel,2000
-564,17/04/2012,Brisbane,Ship,Commercial,port limits,Mooloolah River Mouth,hydraulic oil,1
-565,18/04/2012,Brisbane,Ship,Commercial,port limits,"Maritime Solutions Slipway, Hamilton Reach, Brisbane River",hydraulic oil,4
+563,8/04/2012,Townsville,Ship,Commercial,port limits,Berth 4 at Bulk Sugar Wharf Townsville,diesel,2000.0
+564,17/04/2012,Brisbane,Ship,Commercial,port limits,Mooloolah River Mouth,hydraulic oil,1.0
+565,18/04/2012,Brisbane,Ship,Commercial,port limits,"Maritime Solutions Slipway, Hamilton Reach, Brisbane River",hydraulic oil,4.0
 566,24/04/2012,Brisbane,Unknown,Unknown,port limits,"Seen from Aircraft, East of Redcliffe",unknown,unknown
 567,30/04/2012,Gladstone,Ship,Commercial,port limits,"Jacobs Channel, Curtis Island",sheen,unknown
-568,30/04/2012,Mackay,Ship,Commercial,port limits,Hay Point Expansion HPX3,hydraulic oil,15
-569,3/05/2012,Brisbane,Land,Unknown,port limits,"Shell Service Station, 94 Breakfast Creek Road, Newstead",diesel,2500
-570,10/05/2012,Mackay,Unknown,Unknown,port limits,Hay Point Half Tide Tug Harbour,paint,1
+568,30/04/2012,Mackay,Ship,Commercial,port limits,Hay Point Expansion HPX3,hydraulic oil,15.0
+569,3/05/2012,Brisbane,Land,Unknown,port limits,"Shell Service Station, 94 Breakfast Creek Road, Newstead",diesel,2500.0
+570,10/05/2012,Mackay,Unknown,Unknown,port limits,Hay Point Half Tide Tug Harbour,paint,1.0
 571,15/05/2012,Townsville,Ship,Commercial,port limits,Anchorage off Dalrymple Bay Bowen,diesel,unknown
-572,24/05/2012,Gladstone,Ship,Commercial,port limits,Curtis Island QCLNG Project: Off Load facility,hydraulic oil,2
-573,2/06/2012,Gladstone,Ship,Commercial,port limits,Curtis Island GLNG Marine Offload Facility,hydraulic oil,20
-574,3/06/2012,Gladstone,Ship,Commercial,port limits,RG Tanna Loadout Facility,diesel,1
-575,6/06/2012,Cairns,Ship,Commercial,coastal waters,Fitzroy Island Wharf,diesel,100
+572,24/05/2012,Gladstone,Ship,Commercial,port limits,Curtis Island QCLNG Project: Off Load facility,hydraulic oil,2.0
+573,2/06/2012,Gladstone,Ship,Commercial,port limits,Curtis Island GLNG Marine Offload Facility,hydraulic oil,20.0
+574,3/06/2012,Gladstone,Ship,Commercial,port limits,RG Tanna Loadout Facility,diesel,1.0
+575,6/06/2012,Cairns,Ship,Commercial,coastal waters,Fitzroy Island Wharf,diesel,100.0
 576,13/06/2012,Gladstone,Ship,Commercial,port limits,South China Bay,hydraulic oil,unknown
-577,29/06/2012,Townsville,Land,Unknown,port limits,BP bitumen plant Townsville Port,other,3000
-578,8/07/2012,Gladstone,Ship,Recreational,port limits,Great Sandy Strait Marina Urangan,bilge,2
+577,29/06/2012,Townsville,Land,Unknown,port limits,BP bitumen plant Townsville Port,other,3000.0
+578,8/07/2012,Gladstone,Ship,Recreational,port limits,Great Sandy Strait Marina Urangan,bilge,2.0
 579,10/07/2012,Brisbane,Unknown,Unknown,coastal waters,Wurtulla beach Caloundra,hfo,unknown
-580,12/07/2012,Brisbane,Unknown,Unknown,port limits,Aquarium Passage - Doboy Creek - Brisbane River,diesel,20
-581,12/07/2012,Townsville,Land,Unknown,coastal waters,Lucinda Wharf,diesel,5
-582,14/07/2012,Gladstone,Unknown,Unknown,port limits,Fishermans Landing,diesel,100
+580,12/07/2012,Brisbane,Unknown,Unknown,port limits,Aquarium Passage - Doboy Creek - Brisbane River,diesel,20.0
+581,12/07/2012,Townsville,Land,Unknown,coastal waters,Lucinda Wharf,diesel,5.0
+582,14/07/2012,Gladstone,Unknown,Unknown,port limits,Fishermans Landing,diesel,100.0
 583,18/07/2012,Brisbane,Unknown,Unknown,coastal waters,Scarborough Marina,diesel,unknown
 584,21/07/2012,Gladstone,Unknown,Unknown,coastal waters,Roslyn Bay Boat Harbour Entrance,diesel,unknown
-585,23/07/2012,Mackay,Ship,Commercial,coastal waters,Hay Point Tug Harbour,hydraulic oil,2
-586,23/07/2012,Townsville,Unknown,Unknown,coastal waters,"Enterprise Channel, Dungerness, Lucina",diesel,50
+585,23/07/2012,Mackay,Ship,Commercial,coastal waters,Hay Point Tug Harbour,hydraulic oil,2.0
+586,23/07/2012,Townsville,Unknown,Unknown,coastal waters,"Enterprise Channel, Dungerness, Lucina",diesel,50.0
 587,27/07/2012,Townsville,Unknown,Unknown,port limits,Ross Creek,diesel,unknown
-588,2/08/2012,Gladstone,Ship,Commercial,port limits,Behind Clinton wharf,hydraulic oil,2
+588,2/08/2012,Gladstone,Ship,Commercial,port limits,Behind Clinton wharf,hydraulic oil,2.0
 589,4/08/2012,Townsville,Unknown,Unknown,port limits,Ross Creek near Townsville Yacht Club Marina,diesel,unknown
-590,5/08/2012,Gladstone,Ship,Commercial,port limits,North Passage Isl Gladstone Harbour,hydraulic oil,5
+590,5/08/2012,Gladstone,Ship,Commercial,port limits,North Passage Isl Gladstone Harbour,hydraulic oil,5.0
 591,13/08/2012,Gladstone,Ship,Commercial,port limits,Middle Bank Quoin Anchorage,other,unknown
-592,14/08/2012,Brisbane,Unknown,Unknown,coastal waters,Scarborough Marina,diesel,20
+592,14/08/2012,Brisbane,Unknown,Unknown,coastal waters,Scarborough Marina,diesel,20.0
 593,17/08/2012,Cairns,Unknown,Unknown,coastal waters,Weipa Anchorage area,hfo,unknown
-594,19/08/2012,Brisbane,Land,Unknown,port limits,Brisbane River Hamilton wharfs,other,3000
+594,19/08/2012,Brisbane,Land,Unknown,port limits,Brisbane River Hamilton wharfs,other,3000.0
 595,21/08/2012,Brisbane,Unknown,Unknown,coastal waters,Manly Boat Harbour,sheen,unknown
-596,4/09/2012,Gladstone,Ship,Commercial,port limits,Gladstone Harbour,bilge,10
+596,4/09/2012,Gladstone,Ship,Commercial,port limits,Gladstone Harbour,bilge,10.0
 597,5/09/2012,Brisbane,Ship,Commercial,port limits,Fisherman Island berth 9,sheen,unknown
-598,11/09/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,2
-599,16/09/2012,Mackay,Ship,Commercial,port limits,Hay Point berth 3,hydraulic oil,2
-600,17/09/2012,Mackay,Ship,Commercial,port limits,Mackay Boat Harbour,diesel,1
+598,11/09/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,2.0
+599,16/09/2012,Mackay,Ship,Commercial,port limits,Hay Point berth 3,hydraulic oil,2.0
+600,17/09/2012,Mackay,Ship,Commercial,port limits,Mackay Boat Harbour,diesel,1.0
 601,1/10/2012,Gladstone,Unknown,Unknown,coastal waters,Snapper Creek Tin Can Bay,bilge,unknown
-602,5/10/2012,Mackay,Ship,Commercial,coastal waters,Shute Harbour,diesel,5
-603,5/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,5
-604,13/10/2012,Cairns,Ship,Commercial,port limits,Trinity Wharf,diesel,100
-605,14/10/2012,Gladstone,Ship,Commercial,port limits,Clinton Wharf,hydraulic oil,10
-606,15/10/2012,Gladstone,Land,Unknown,port limits,GLNG MOF Gladstone Harbour,other,100
-607,15/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,5
-608,19/10/2012,Cairns,Unknown,Unknown,port limits,Cairns fishman's base Smiths Creek,bilge,20
-609,19/10/2012,Mackay,Ship,Commercial,coastal waters,Hay Point berth 3,hydraulic oil,1
-610,20/10/2012,Townsville,Ship,Commercial,port limits,Berth 9,other,2000
-611,22/10/2012,Gladstone,Ship,Commercial,port limits,Sth Passage Island,other,1500
+602,5/10/2012,Mackay,Ship,Commercial,coastal waters,Shute Harbour,diesel,5.0
+603,5/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,5.0
+604,13/10/2012,Cairns,Ship,Commercial,port limits,Trinity Wharf,diesel,100.0
+605,14/10/2012,Gladstone,Ship,Commercial,port limits,Clinton Wharf,hydraulic oil,10.0
+606,15/10/2012,Gladstone,Land,Unknown,port limits,GLNG MOF Gladstone Harbour,other,100.0
+607,15/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,5.0
+608,19/10/2012,Cairns,Unknown,Unknown,port limits,Cairns fishman's base Smiths Creek,bilge,20.0
+609,19/10/2012,Mackay,Ship,Commercial,coastal waters,Hay Point berth 3,hydraulic oil,1.0
+610,20/10/2012,Townsville,Ship,Commercial,port limits,Berth 9,other,2000.0
+611,22/10/2012,Gladstone,Ship,Commercial,port limits,Sth Passage Island,other,1500.0
 612,24/10/2012,Brisbane,Ship,Recreational,coastal waters,Raby bay,unknown,unknown
 613,27/10/2012,Cairns,Ship,Unknown,coastal waters,Gallon Reef,unknown,unknown
-614,30/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,50
-615,30/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,unknown,1
+614,30/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,50.0
+615,30/10/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,unknown,1.0
 616,1/11/2012,Brisbane,Land,Unknown,coastal waters,Jabiru canal Newport,sheen,unknown
-617,2/11/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,2
+617,2/11/2012,Townsville,Ship,Commercial,port limits,Berth 10 Townsville Harbour,hydraulic oil,2.0
 618,3/11/2012,Brisbane,Land,Unknown,coastal waters,Tripcony Creek Golden Beach,unknown,unknown
-619,9/11/2012,Brisbane,Ship,Recreational,coastal waters,East Coast Marina Manly,diesel,200
-620,10/11/2012,Gladstone,Ship,Commercial,port limits,Fishermans finger Gladstone Harbour,diesel,30
-621,12/11/2012,Mackay,Ship,Unknown,coastal waters,Black Island,diesel,10
+619,9/11/2012,Brisbane,Ship,Recreational,coastal waters,East Coast Marina Manly,diesel,200.0
+620,10/11/2012,Gladstone,Ship,Commercial,port limits,Fishermans finger Gladstone Harbour,diesel,30.0
+621,12/11/2012,Mackay,Ship,Unknown,coastal waters,Black Island,diesel,10.0
 622,21/11/2012,Cairns,Ship,Recreational,coastal waters,Johnstone River Innisfail,diesel,unknown
-623,22/11/2012,Gladstone,Unknown,Unknown,port limits,Snapper Creek Tin Can Bay,sheen,5
-624,24/11/2012,Gladstone,Ship,Commercial,port limits,China bay Curtis Island,hydraulic oil,1
+623,22/11/2012,Gladstone,Unknown,Unknown,port limits,Snapper Creek Tin Can Bay,sheen,5.0
+624,24/11/2012,Gladstone,Ship,Commercial,port limits,China bay Curtis Island,hydraulic oil,1.0
 625,26/11/2012,Gladstone,Ship,Commercial,coastal waters,22Nm north of Sandy Cape,other,unknown
-626,1/12/2012,Mackay,Ship,Recreational,port limits,Mackay Marina,diesel,20
-627,15/12/2012,Townsville,Ship,Commercial,port limits,Horseshoe Bay Magnetic Island,hydraulic oil,10
+626,1/12/2012,Mackay,Ship,Recreational,port limits,Mackay Marina,diesel,20.0
+627,15/12/2012,Townsville,Ship,Commercial,port limits,Horseshoe Bay Magnetic Island,hydraulic oil,10.0
 628,16/12/2012,Cairns,Ship,Unknown,coastal waters,1Nm w Scardon River,diesel,unknown
 629,1/01/2013,Brisbane,Unknown,Unknown,coastal waters,Mooloolah River Fisheries wharf,diesel,unknown
 630,2/01/2013,Gladstone,Unknown,Unknown,coastal waters,East of Bunker group,sheen,unknown
 631,2/01/2013,Townsville,Ship,Recreational,port limits,Townsville Breakwater anchorage,sheen,unknown
 632,14/01/2013,Brisbane,Ship,Recreational,coastal waters,"Dockside Marina, Brisbane River",diesel,unknown
-633,17/01/2013,Cairns,Ship,Commercial,port limits,"Trinity, Inlet Cairns",diesel,20
-634,22/01/2013,Cairns,Ship,Unknown,port limits,"Marlin Marina, Cairns",diesel,20
-635,4/02/2013,Townsville,Unknown,Unknown,coastal waters,"Nelly Bay, Magnetic Island",diesel,10
+633,17/01/2013,Cairns,Ship,Commercial,port limits,"Trinity, Inlet Cairns",diesel,20.0
+634,22/01/2013,Cairns,Ship,Unknown,port limits,"Marlin Marina, Cairns",diesel,20.0
+635,4/02/2013,Townsville,Unknown,Unknown,coastal waters,"Nelly Bay, Magnetic Island",diesel,10.0
 636,12/02/2013,Mackay,Ship,Commercial,port limits,Hay Point,hydraulic oil,0.5
 637,21/02/2013,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Cairns",sheen,unknown
 638,21/02/2013,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Cairns",sheen,unknown
-639,22/02/2013,Mackay,Ship,Recreational,coastal waters,Abel Point Marina,diesel,15
-640,24/02/2013,Gladstone,Land,Unknown,coastal waters,Rosslyn Bay Boat Harbour,diesel,15
-641,28/02/2013,Townsville,Ship,Commercial,port limits,Townsville BERTH 10,hydraulic oil,3
-642,11/03/2013,Cairns,Land,Unknown,port limits,"Thursday Island, storm drain",cooking oil,5
+639,22/02/2013,Mackay,Ship,Recreational,coastal waters,Abel Point Marina,diesel,15.0
+640,24/02/2013,Gladstone,Land,Unknown,coastal waters,Rosslyn Bay Boat Harbour,diesel,15.0
+641,28/02/2013,Townsville,Ship,Commercial,port limits,Townsville BERTH 10,hydraulic oil,3.0
+642,11/03/2013,Cairns,Land,Unknown,port limits,"Thursday Island, storm drain",cooking oil,5.0
 643,11/03/2013,Gladstone,Ship,Commercial,coastal waters,Three Rocks south of Cape Manifold,diesel,unknown
-644,14/03/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",hydraulic oil,1
-645,14/03/2013,Gladstone,Land,Unknown,port limits,Gladstone Curtis LNG,hydraulic oil,25
-646,15/03/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",other,10
-647,22/03/2013,Gladstone,Unknown,Unknown,coastal waters,"Ross Creek, Yeppoon",diesel,10
-648,4/04/2013,Townsville,Ship,Commercial,port limits,"Townsville Port, Berth 8",hydraulic oil,5
-649,6/04/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,3
+644,14/03/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",hydraulic oil,1.0
+645,14/03/2013,Gladstone,Land,Unknown,port limits,Gladstone Curtis LNG,hydraulic oil,25.0
+646,15/03/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",other,10.0
+647,22/03/2013,Gladstone,Unknown,Unknown,coastal waters,"Ross Creek, Yeppoon",diesel,10.0
+648,4/04/2013,Townsville,Ship,Commercial,port limits,"Townsville Port, Berth 8",hydraulic oil,5.0
+649,6/04/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,3.0
 650,10/04/2013,Gladstone,Ship,Recreational,port limits,Tin Can Bay Marina,diesel,0.3
-651,11/04/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",hydraulic oil,1
-652,11/04/2013,Gladstone,Land,Unknown,port limits,Curtis LNG,hydraulic oil,1
+651,11/04/2013,Cairns,Ship,Commercial,port limits,"Trinity Inlet, Cairns",hydraulic oil,1.0
+652,11/04/2013,Gladstone,Land,Unknown,port limits,Curtis LNG,hydraulic oil,1.0
 653,18/04/2013,Gladstone,Land,Unknown,port limits,Curtis LNG,hydraulic oil,0.1
 654,27/04/2013,Brisbane,Ship,Commercial,port limits,Brisbane Cruise Ship Terminal,hydraulic oil,0.1
-655,4/05/2013,Townsville,Ship,Commercial,port limits,Port of Townsville,hydraulic oil,1
+655,4/05/2013,Townsville,Ship,Commercial,port limits,Port of Townsville,hydraulic oil,1.0
 656,12/05/2013,Gladstone,Ship,Commercial,port limits,Gladstone Harbour,diesel,0.3
 657,14/05/2013,Gladstone,Ship,Commercial,port limits,Gladstone Harbour,hydraulic oil,0.1
-658,23/05/2013,Townsville,Ship,Commercial,port limits,Townsville Port,diesel,10
+658,23/05/2013,Townsville,Ship,Commercial,port limits,Townsville Port,diesel,10.0
 659,28/05/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,0.5
-660,3/06/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,30
-661,4/06/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,10
+660,3/06/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,30.0
+661,4/06/2013,Townsville,Ship,Commercial,port limits,Townsville Port,hydraulic oil,10.0
 662,6/06/2013,Gladstone,Ship,Commercial,coastal waters,Lady Elliot Island,diesel,unknown
 663,7/06/2013,Brisbane,Ship,Unknown,coastal waters,"Rainbow Channel, Moreton Bay",diesel,unknown
-664,10/06/2013,Gladstone,Land,Unknown,port limits,Curtis GLNG Project,other,1
+664,10/06/2013,Gladstone,Land,Unknown,port limits,Curtis GLNG Project,other,1.0
 665,10/06/2013,Townsville,Ship,Recreational,coastal waters,Magnetic Island Marina,diesel,unknown
 666,18/06/2013,Cairns,Ship,Recreational,coastal waters,"Meriden Marina and Dickson Inlet, Port Douglas",diesel,unknown
 667,20/06/2013,Gladstone,Ship,Commercial,port limits,Passage Island Channel Gladstone Harbour,diesel,unknown
-668,20/06/2013,Gladstone,Ship,Commercial,port limits,Wiggins Island Coal Terminal,hydraulic oil,1
+668,20/06/2013,Gladstone,Ship,Commercial,port limits,Wiggins Island Coal Terminal,hydraulic oil,1.0
 669,20/06/2013,Gladstone,Ship,Commercial,port limits,Passage Island Channel Gladstone Harbour,diesel,unknown
-670,21/06/2013,Cairns,Ship,Commercial,coastal waters,Frankland Islands,diesel,50
+670,21/06/2013,Cairns,Ship,Commercial,coastal waters,Frankland Islands,diesel,50.0
 671,30/06/2013,Brisbane,Land,Unknown,coastal waters,"Cabbage Tree Creek, Moreton bay",diesel,unknown
 672,30/06/2013,Cairns,Unknown,Unknown,port limits,Cairns Cruising Yacht Club,paint,unknown
-673,1/07/2013,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,20
-674,1/07/2013,Gladstone,Ship,Commercial,port limits,"QC4 Curtis Island, Offloading Ramp, Gladstone",hydraulic oil,10
+673,1/07/2013,Gladstone,Unknown,Unknown,port limits,Gladstone Marina,diesel,20.0
+674,1/07/2013,Gladstone,Ship,Commercial,port limits,"QC4 Curtis Island, Offloading Ramp, Gladstone",hydraulic oil,10.0
 675,6/07/2013,Gladstone,Land,Unknown,port limits,"Wiggins Island Coal Terminal, Gladstone",sheen,unknown
-676,12/07/2013,Townsville,Unknown,Unknown,port limits,"Ross Creek Berth 10, Townsville",diesel,10
+676,12/07/2013,Townsville,Unknown,Unknown,port limits,"Ross Creek Berth 10, Townsville",diesel,10.0
 677,20/07/2013,Gladstone,Ship,Commercial,port limits,"Boyne Smelter Whalf, Gladstone Harbour, Gladstone",other,unknown
-678,22/07/2013,Townsville,Ship,Unknown,port limits,"Harbour Marine Precinct, Townsville",diesel,20
+678,22/07/2013,Townsville,Ship,Unknown,port limits,"Harbour Marine Precinct, Townsville",diesel,20.0
 679,23/07/2013,Mackay,Ship,Recreational,coastal waters,"Airlie Beach Marina, Airlie Beach",sheen,unknown
-680,25/07/2013,Brisbane,Unknown,Unknown,coastal waters,Manly Boat Harbour,diesel,10
+680,25/07/2013,Brisbane,Unknown,Unknown,coastal waters,Manly Boat Harbour,diesel,10.0
 681,26/07/2013,Brisbane,Ship,Commercial,port limits,"Raptis Fish Market, Brisbane River",sheen,unknown
 682,28/07/2013,Brisbane,Unknown,Unknown,port limits,"Fisherman Islands 11 and 12, Brisbane River",other,unknown
-683,29/07/2013,Townsville,Ship,Commercial,coastal waters,"Boat Ramp, Palm Island",hydraulic oil,3
+683,29/07/2013,Townsville,Ship,Commercial,coastal waters,"Boat Ramp, Palm Island",hydraulic oil,3.0
 684,2/08/2013,Gladstone,Ship,Recreational,port limits,"Urangan Harbour, Great Sandy Strait Marina, Hervey Bay",sheen,unknown
-685,4/08/2013,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Cairns",diesel,10
-686,10/08/2013,Gladstone,Ship,Commercial,port limits,"Passage Island Channel, Gladstone",hydraulic oil,10
-687,8/09/2013,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island",diesel,20
+685,4/08/2013,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Cairns",diesel,10.0
+686,10/08/2013,Gladstone,Ship,Commercial,port limits,"Passage Island Channel, Gladstone",hydraulic oil,10.0
+687,8/09/2013,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island",diesel,20.0
 688,27/09/2013,Brisbane,Land,Unknown,coastal waters,"Upstream end of Hamilton Reach, Brisbane River",diesel,unknown
 689,27/09/2013,Gladstone,Ship,Recreational,coastal waters,"South Break wall, Rosslyn Bay Boat Ramp",diesel,unknown
 690,27/09/2013,Gladstone,Unknown,Unknown,port limits,"Sandy Strait Marina, Harvey Bay",other,unknown
-691,3/10/2013,Cairns,Ship,Commercial,coastal waters,4 N/M SSE of cape Tribulation,diesel,14000
+691,3/10/2013,Cairns,Ship,Commercial,coastal waters,4 N/M SSE of cape Tribulation,diesel,14000.0
 692,11/10/2013,Brisbane,Unknown,Unknown,coastal waters,"Albatross Canal, Scarbourgh",sheen,unknown
-693,19/10/2013,Mackay,Ship,Recreational,port limits,Mackay Marina,lubricant oil,3
-694,23/10/2013,Gladstone,Ship,Commercial,port limits,Port of Bundaberg,hydraulic oil,50
-695,6/11/2013,Mackay,Ship,Recreational,coastal waters,"Abell Point Marina, Airlie Beach",diesel,10
-696,9/11/2013,Gladstone,Ship,Commercial,port limits,"Jetty at old slip way, Mary River",diesel,40
+693,19/10/2013,Mackay,Ship,Recreational,port limits,Mackay Marina,lubricant oil,3.0
+694,23/10/2013,Gladstone,Ship,Commercial,port limits,Port of Bundaberg,hydraulic oil,50.0
+695,6/11/2013,Mackay,Ship,Recreational,coastal waters,"Abell Point Marina, Airlie Beach",diesel,10.0
+696,9/11/2013,Gladstone,Ship,Commercial,port limits,"Jetty at old slip way, Mary River",diesel,40.0
 697,11/11/2013,Gladstone,Unknown,Unknown,port limits,"Between Flin RORO and small craft Anchorage, Gladstone",diesel,unknown
-698,12/11/2013,Cairns,Ship,Commercial,port limits,HMAS Cairns Navy Base,bilge,10
-699,12/11/2013,Cairns,Ship,Commercial,port limits,"Tropical Reef Shipyards, Cairns",diesel,2
+698,12/11/2013,Cairns,Ship,Commercial,port limits,HMAS Cairns Navy Base,bilge,10.0
+699,12/11/2013,Cairns,Ship,Commercial,port limits,"Tropical Reef Shipyards, Cairns",diesel,2.0
 700,13/11/2013,Gladstone,Ship,Commercial,port limits,"Entrance to Teebar Creek, Tin Can Bay",diesel,unknown
 701,14/11/2013,Cairns,Ship,Commercial,coastal waters,"Dicksons Inlet, Port Douglas",other,unknown
-702,15/11/2013,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Cairns",diesel,10
+702,15/11/2013,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Cairns",diesel,10.0
 703,21/11/2013,Cairns,Ship,Recreational,coastal waters,Between Cape Tribulation and Snapper Island,diesel,unknown
-704,25/11/2013,Townsville,Ship,Recreational,port limits,"Nelly Bay Harbour, D Arm in Marina, Magnetic Island",diesel,2
+704,25/11/2013,Townsville,Ship,Recreational,port limits,"Nelly Bay Harbour, D Arm in Marina, Magnetic Island",diesel,2.0
 705,25/11/2013,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,unknown
-706,3/12/2013,Mackay,Ship,Commercial,coastal waters,"Mackay reef supplies wharf, Pioneer River",diesel,300
-707,5/12/2013,Townsville,Land,Unknown,port limits,"Ross River, Townsville",hfo,100
-708,9/12/2013,Mackay,Ship,Commercial,coastal waters,"Abell Point Marina, Airlie Beach",bilge,5
+706,3/12/2013,Mackay,Ship,Commercial,coastal waters,"Mackay reef supplies wharf, Pioneer River",diesel,300.0
+707,5/12/2013,Townsville,Land,Unknown,port limits,"Ross River, Townsville",hfo,100.0
+708,9/12/2013,Mackay,Ship,Commercial,coastal waters,"Abell Point Marina, Airlie Beach",bilge,5.0
 709,10/12/2013,Brisbane,Unknown,Unknown,coastal waters,"Cabbage Tree Creek, Brisbane",diesel,unknown
 710,8/01/2014,Cairns,Land,Unknown,port limits,"Endeavour River, Cooktown",diesel,unknown
 711,9/01/2014,Gladstone,Ship,Unknown,port limits,Trawler pens in Tin Can Bay Marina,bilge,unknown
@@ -716,65 +716,65 @@
 714,21/01/2014,Gladstone,Unknown,Unknown,port limits,"Mouth of the Calliope River, Gladstone",sheen,unknown
 715,22/01/2014,Townsville,Ship,Commercial,port limits,"Berth 1 and swing basin, Townsville",soot,unknown
 716,24/01/2014,Brisbane,Land,Unknown,port limits,"Shell Tank Farm, Pinkenba, Brisbane",other,unknown
-717,29/01/2014,Brisbane,Ship,Recreational,coastal waters,"Versace Marina, The Spit, Main Beach, Goldcoast",diesel,2000
+717,29/01/2014,Brisbane,Ship,Recreational,coastal waters,"Versace Marina, The Spit, Main Beach, Goldcoast",diesel,2000.0
 718,30/01/2014,Cairns,Ship,Unknown,coastal waters,"Cooya Beach boat ramp, Cairns",diesel,unknown
-719,5/02/2014,Cairns,Ship,Commercial,port limits,"Fisherman's Base 2, Cairns",bilge,10
+719,5/02/2014,Cairns,Ship,Commercial,port limits,"Fisherman's Base 2, Cairns",bilge,10.0
 720,14/02/2014,Cairns,Ship,Recreational,port limits,"F Finger, Marlin Marina, Cairns",other,unknown
 721,18/02/2014,Cairns,Unknown,Unknown,port limits,"Trinity Park Beach, Cairns",other,unknown
 722,19/02/2014,Cairns,Unknown,Unknown,port limits,"Norship Slipway, Tingira St, Portsmith, Cairns",sheen,unknown
-723,5/03/2014,Gladstone,Ship,Commercial,port limits,"Laird Point Boat Ramp, Gladstone",diesel,20
-724,8/03/2014,Cairns,Ship,Commercial,port limits,"Town Reach, Norman Creek, Karumba",diesel,20
+723,5/03/2014,Gladstone,Ship,Commercial,port limits,"Laird Point Boat Ramp, Gladstone",diesel,20.0
+724,8/03/2014,Cairns,Ship,Commercial,port limits,"Town Reach, Norman Creek, Karumba",diesel,20.0
 725,11/03/2014,Cairns,Land,Unknown,port limits,"Marlin Marina, Trinity Inlet, Cairns",diesel,unknown
 726,12/03/2014,Cairns,Unknown,Unknown,coastal waters,"South Johnstone river near coronation St, Innisfale",sheen,unknown
 727,14/03/2014,Cairns,Ship,Unknown,coastal waters,Port Douglas Marina,bilge,unknown
 728,14/03/2014,Cairns,Unknown,Unknown,port limits,Mourilyan Harbour,sheen,unknown
 729,31/03/2014,Brisbane,Ship,Commercial,coastal waters,"Mulloka Canel East, Minyama",hydraulic oil,unknown
-730,1/04/2014,Brisbane,Ship,Commercial,coastal waters,"Runaway Bay Marina, Gold Coast",bilge,4
-731,4/04/2014,Townsville,Unknown,Unknown,port limits,"Berth 4, Port of Townsville",other,30kg
-732,6/04/2014,Townsville,Ship,Commercial,port limits,"Duck Pond, Townsville",diesel,50
-733,22/04/2014,Brisbane,Ship,Commercial,port limits,"Brisbane Marine Industrial Park, Brisbane",diesel,20
+730,1/04/2014,Brisbane,Ship,Commercial,coastal waters,"Runaway Bay Marina, Gold Coast",bilge,4.0
+731,4/04/2014,Townsville,Unknown,Unknown,port limits,"Berth 4, Port of Townsville",other,30.0
+732,6/04/2014,Townsville,Ship,Commercial,port limits,"Duck Pond, Townsville",diesel,50.0
+733,22/04/2014,Brisbane,Ship,Commercial,port limits,"Brisbane Marine Industrial Park, Brisbane",diesel,20.0
 734,22/04/2014,Cairns,Unknown,Unknown,coastal waters,"Johnstone River, Commercial Wharf, Innisfail",sheen,unknown
 735,23/04/2014,Cairns,Unknown,Unknown,port limits,"Cairns fishing marina and wharf, Cairns",sheen,unknown
-736,28/04/2014,Brisbane,Ship,Recreational,coastal waters,"Hope Island Resort Marina, Gold Coast",sheen,1
-737,4/05/2014,Cairns,Ship,Commercial,coastal waters,"Cowley Beach Defence Training Area, Cowley Beach",hydraulic oil,250
+736,28/04/2014,Brisbane,Ship,Recreational,coastal waters,"Hope Island Resort Marina, Gold Coast",sheen,1.0
+737,4/05/2014,Cairns,Ship,Commercial,coastal waters,"Cowley Beach Defence Training Area, Cowley Beach",hydraulic oil,250.0
 738,21/05/2014,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Cairns",bilge,unknown
 739,23/05/2014,Mackay,Ship,Commercial,port limits,"Mackay Marina, Commercial Fishing Wharf",bilge,unknown
-740,30/05/2014,Gladstone,Unknown,Unknown,port limits,"Transit Systems Berths, Gladstone Marina, Gladstone",diesel,10
-741,2/06/2014,Brisbane,Unknown,Unknown,port limits,"Luggage Point dredge pump out moornig, Brisbane River",hydraulic oil,10
-742,6/06/2014,Cairns,Ship,Commercial,port limits,"Wharf number 8, Cairns Harbour",hydraulic oil,30
-743,10/06/2014,Gladstone,Land,Unknown,port limits,"WICET Project site, Gladstone",hydraulic oil,1
+740,30/05/2014,Gladstone,Unknown,Unknown,port limits,"Transit Systems Berths, Gladstone Marina, Gladstone",diesel,10.0
+741,2/06/2014,Brisbane,Unknown,Unknown,port limits,"Luggage Point dredge pump out moornig, Brisbane River",hydraulic oil,10.0
+742,6/06/2014,Cairns,Ship,Commercial,port limits,"Wharf number 8, Cairns Harbour",hydraulic oil,30.0
+743,10/06/2014,Gladstone,Land,Unknown,port limits,"WICET Project site, Gladstone",hydraulic oil,1.0
 744,11/06/2014,Gladstone,Unknown,Unknown,coastal waters,Lady Elliott Island,other,unknown
-745,4/07/2014,Cairns,Ship,Commercial,port limits,"Main Wharf, Thursday Island",diesel,1
-746,8/07/2014,Cairns,Unknown,Unknown,port limits,"Fishing Base 2, Cairns",diesel,20
-747,14/07/2014,Cairns,Ship,Commercial,port limits,"Wharf number 4, Trinity Wharf, Cairns",paint,4
+745,4/07/2014,Cairns,Ship,Commercial,port limits,"Main Wharf, Thursday Island",diesel,1.0
+746,8/07/2014,Cairns,Unknown,Unknown,port limits,"Fishing Base 2, Cairns",diesel,20.0
+747,14/07/2014,Cairns,Ship,Commercial,port limits,"Wharf number 4, Trinity Wharf, Cairns",paint,4.0
 748,16/07/2014,Gladstone,Ship,Commercial,coastal waters,Between Great Keppel Island and Barren Island,diesel,unknown
-749,18/07/2014,Brisbane,Land,Unknown,port limits,"Fisherman Islands Berth Number 3, Brisbane",diesel,20
-750,18/07/2014,Brisbane,Unknown,Unknown,coastal waters,"Raby Bay, behind 38 Compass Court, Cleveland",hydraulic oil,100
-751,18/07/2014,Gladstone,Ship,Commercial,port limits,"Curtis Ferry Services pontoon, Gladstone Marina",diesel,150
-752,22/07/2014,Cairns,Ship,Unknown,port limits,"Cairns Naval Base, Cairns",hydraulic oil,10
+749,18/07/2014,Brisbane,Land,Unknown,port limits,"Fisherman Islands Berth Number 3, Brisbane",diesel,20.0
+750,18/07/2014,Brisbane,Unknown,Unknown,coastal waters,"Raby Bay, behind 38 Compass Court, Cleveland",hydraulic oil,100.0
+751,18/07/2014,Gladstone,Ship,Commercial,port limits,"Curtis Ferry Services pontoon, Gladstone Marina",diesel,150.0
+752,22/07/2014,Cairns,Ship,Unknown,port limits,"Cairns Naval Base, Cairns",hydraulic oil,10.0
 753,1/08/2014,Townsville,Unknown,Unknown,port limits,Opposite the Townsville Yacht Club in Ross Creek,sheen,unknown
 754,16/08/2014,Gladstone,Unknown,Unknown,port limits,"Downstream of Tin Can Bay Marina, Tin Can Bay",diesel,unknown
-755,21/08/2014,Brisbane,Unknown,Unknown,coastal waters,"Entrance Toondah Harbour, Cleveland",other,20
+755,21/08/2014,Brisbane,Unknown,Unknown,coastal waters,"Entrance Toondah Harbour, Cleveland",other,20.0
 756,22/08/2014,Gladstone,Unknown,Unknown,port limits,"Tin Can Bay Marina, Tin Can Bay",diesel,unknown
-757,31/08/2014,Cairns,Ship,Commercial,port limits,"Thursday Island Harbour, Port Kennedy, Torres Strait",diesel,10
+757,31/08/2014,Cairns,Ship,Commercial,port limits,"Thursday Island Harbour, Port Kennedy, Torres Strait",diesel,10.0
 758,4/09/2014,Gladstone,Ship,Recreational,port limits,"Tin Can Bay Marina, Tin can Bay",diesel,unknown
-759,9/09/2014,Gladstone,Land,Unknown,port limits,"Wiggins Island Coal Export Terminal (WICKET), Gladstone",other,1
-760,15/09/2014,Mackay,Ship,Commercial,port limits,"Cruise Whitsunday Fuel Dock, Port of Airlie, Airlie Beach",diesel,1
-761,19/09/2014,Gladstone,Ship,Commercial,coastal waters,"Heron Island, Great Barrier Reef",diesel,1
-762,21/09/2014,Cairns,Ship,Commercial,coastal waters,"Badu Island Barge Ramp, Torres Strait",diesel,1
-763,24/09/2014,Cairns,Ship,Commercial,port limits,"Rebel Marine Wharf, Thursday Island, Torres Strait",diesel,1
-764,26/09/2014,Gladstone,Ship,Recreational,port limits,"Susan River, between Maryborough and Hervey Bay",hydraulic oil,25
+759,9/09/2014,Gladstone,Land,Unknown,port limits,"Wiggins Island Coal Export Terminal (WICKET), Gladstone",other,1.0
+760,15/09/2014,Mackay,Ship,Commercial,port limits,"Cruise Whitsunday Fuel Dock, Port of Airlie, Airlie Beach",diesel,1.0
+761,19/09/2014,Gladstone,Ship,Commercial,coastal waters,"Heron Island, Great Barrier Reef",diesel,1.0
+762,21/09/2014,Cairns,Ship,Commercial,coastal waters,"Badu Island Barge Ramp, Torres Strait",diesel,1.0
+763,24/09/2014,Cairns,Ship,Commercial,port limits,"Rebel Marine Wharf, Thursday Island, Torres Strait",diesel,1.0
+764,26/09/2014,Gladstone,Ship,Recreational,port limits,"Susan River, between Maryborough and Hervey Bay",hydraulic oil,25.0
 765,15/11/2014,Cairns,Ship,Recreational,port limits,"Half Moon Bay Marina, Yorkeys Knob, Cairns",diesel,unknown
 766,15/11/2014,Mackay,Ship,Recreational,coastal waters,"Whitehaven Beach, 1nm south of Hill Inlet",bilge,unknown
 767,21/11/2014,Cairns,Unknown,Unknown,port limits,"H Finger, Marlin Marina, Cairns",diesel,unknown
 768,23/11/2014,Brisbane,Ship,Recreational,coastal waters,"Peel Island, South West Rocks, Moreton Bay",diesel,unknown
-769,28/11/2014,Gladstone,Ship,Commercial,port limits,"Fishermans Landing, Gladstone Harbour, Gladstone",grease,100
+769,28/11/2014,Gladstone,Ship,Commercial,port limits,"Fishermans Landing, Gladstone Harbour, Gladstone",grease,100.0
 770,7/01/2015,Cairns,Ship,Recreational,port limits,"150m from Horn Island Passenger Wharf, Torres Strait",diesel,unknown
-771,8/01/2015,Brisbane,Ship,Recreational,coastal waters,"Hope Island Resort Marina, Hope Island, Gold Coast",diesel,5
+771,8/01/2015,Brisbane,Ship,Recreational,coastal waters,"Hope Island Resort Marina, Hope Island, Gold Coast",diesel,5.0
 772,24/01/2015,Gladstone,Unknown,Unknown,coastal waters,Capricorn Channel,unknown,unknown
 773,25/02/2015,Cairns,Land,Unknown,port limits,"Commercial Fish base number 2, Trinity Inlet, Cairns",sheen,unknown
 774,11/03/2015,Brisbane,Unknown,Unknown,coastal waters,"Rivage Royale Marina, Southport",sheen,unknown
-775,14/03/2015,Cairns,Ship,Commercial,port limits,"Main wharf, Thursday Island, Port Kennedy, Torres Strait",diesel,2
+775,14/03/2015,Cairns,Ship,Commercial,port limits,"Main wharf, Thursday Island, Port Kennedy, Torres Strait",diesel,2.0
 776,15/03/2015,Cairns,Land,Unknown,port limits,"Engineers Wharf, Port Kennedy, Thursday Island, Torres Strait",diesel,unknown
 777,27/03/2015,Cairns,Ship,Commercial,port limits,"Norship BR1, Smith's Creek, Cairns",diesel,unknown
 778,27/03/2015,Brisbane,Ship,Recreational,coastal waters,"Dockside Marine, Kangaroo Point, Brisbane",sheen,unknown
@@ -782,150 +782,150 @@
 780,30/03/2015,Cairns,Unknown,Unknown,port limits,"Commercial Fishing Base 1, Smiths Creek, Cairns",diesel,unknown
 781,3/04/2015,Brisbane,Ship,Recreational,coastal waters,"Marine Stadium, Broadwater, Gold Coast",diesel,unknown
 782,24/04/2015,Townsville,Ship,Commercial,port limits,"Ross River, Townsville",diesel,unknown
-783,11/05/2015,Brisbane,Land,Unknown,port limits,"Graincorp Liquid Terminal, Brisbane River",diesel,1000
+783,11/05/2015,Brisbane,Land,Unknown,port limits,"Graincorp Liquid Terminal, Brisbane River",diesel,1000.0
 784,19/05/2015,Brisbane,Land,Unknown,coastal waters,"Mooloolaba Yacht club, Mooloolaba",other,unknown
 785,8/06/2015,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,unknown
-786,4/07/2015,Townsville,Ship,Commercial,port limits,"Townsville Harbour, Townsville",diesel,10
+786,4/07/2015,Townsville,Ship,Commercial,port limits,"Townsville Harbour, Townsville",diesel,10.0
 787,15/07/2015,Cairns,Unknown,Unknown,port limits,"Tropical Reef Shipyard,  Trinity Inlet,  Cairns",sheen,unknown
-788,17/07/2015,Townsville,Ship,Unknown,coastal waters,20nm North of Cape Upstart,hfo,"> 10,000"
+788,17/07/2015,Townsville,Ship,Unknown,coastal waters,20nm North of Cape Upstart,hfo,10000.0
 789,21/07/2015,Townsville,Unknown,Unknown,port limits,"Boat Ramp Number 2, Ross Creek, Townsville",sheen,unknown
 790,24/07/2015,Cairns,Unknown,Unknown,port limits,"RaptIs Wharf, Norman River, Karumba",unknown,unknown
-791,29/07/2015,Cairns,Ship,Commercial,port limits,"RaptIs Wharf, Norman River, Karumba",diesel,10
+791,29/07/2015,Cairns,Ship,Commercial,port limits,"RaptIs Wharf, Norman River, Karumba",diesel,10.0
 792,31/07/2015,Gladstone,Ship,Commercial,port limits,"Port Alma Public Boat Ramp, Port Alma",sheen,unknown
 793,7/08/2015,Cairns,Unknown,Unknown,coastal waters,"Googarra Beach, Tully Heads",unknown,unknown
-794,14/08/2015,Mackay,Ship,Commercial,port limits,"Mackay Marina, Mackay",bilge,2
+794,14/08/2015,Mackay,Ship,Commercial,port limits,"Mackay Marina, Mackay",bilge,2.0
 795,17/08/2015,Brisbane,Ship,Recreational,coastal waters,"Southport Yacht club, Gold Coast Broadwater, Gold Coast",diesel,unknown
 796,20/08/2015,Brisbane,Unknown,Unknown,coastal waters,"Karragarra Ws near Karragarra Island, Southern Moreton Bay, Gold Coast",sheen,unknown
 797,20/08/2015,Cairns,Unknown,Unknown,port limits,2nm West South West of Green Island off Cairns,diesel,unknown
-798,20/08/2015,Gladstone,Ship,Commercial,port limits,"Fishermans Landing Wharf, Gladstone Harbour, Gladstone",hydraulic oil,1
+798,20/08/2015,Gladstone,Ship,Commercial,port limits,"Fishermans Landing Wharf, Gladstone Harbour, Gladstone",hydraulic oil,1.0
 799,24/08/2015,Cairns,Ship,Recreational,coastal waters,"Chapman Island Anchorage, Chapman Island, 4nm SE of Cape Direction",sheen,unknown
-800,25/08/2015,Brisbane,Land,Unknown,coastal waters,"Coomera River, M1 bridge, Gold Coast",diesel,1
+800,25/08/2015,Brisbane,Land,Unknown,coastal waters,"Coomera River, M1 bridge, Gold Coast",diesel,1.0
 801,25/08/2015,Mackay,Ship,Commercial,coastal waters,"Western Finger, Shute Harbour",bilge,unknown
-802,22/09/2015,Townsville,Unknown,Unknown,port limits,"Berth 10, Townsville Harbour, Townsville",hydraulic oil,20
-803,7/10/2015,Gladstone,Ship,Recreational,port limits,"G Finger, Gladstone Marina, Gladstone",diesel,1
+802,22/09/2015,Townsville,Unknown,Unknown,port limits,"Berth 10, Townsville Harbour, Townsville",hydraulic oil,20.0
+803,7/10/2015,Gladstone,Ship,Recreational,port limits,"G Finger, Gladstone Marina, Gladstone",diesel,1.0
 804,7/10/2015,Townsville,Land,Unknown,port limits,"Storm Water Drain, Berth 1, Townsville Harbour, Townsville",sheen,unknown
 805,11/10/2015,Townsville,Ship,Recreational,port limits,"D18, D Arm, Magnetic Island Marina, Magnetic Island",diesel,unknown
-806,4/11/2015,Cairns,Ship,Unknown,port limits,"Navy Base, Cairns Harbour, Cairns",diesel,250mil
-807,10/11/2015,Townsville,Ship,Commercial,port limits,"Magnetic Island Marina, Magnetic Island",diesel,2
-808,28/11/2015,Cairns,Unknown,Unknown,port limits,"Lorim Point Wharf, Weipa",diesel,50
-809,30/11/2015,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Cairns",diesel,5
-810,3/12/2015,Brisbane,Ship,Recreational,coastal waters,"Columbus Drive Canal, Hollywell, Gold Coast",bilge,15
+806,4/11/2015,Cairns,Ship,Unknown,port limits,"Navy Base, Cairns Harbour, Cairns",diesel,unknown
+807,10/11/2015,Townsville,Ship,Commercial,port limits,"Magnetic Island Marina, Magnetic Island",diesel,2.0
+808,28/11/2015,Cairns,Unknown,Unknown,port limits,"Lorim Point Wharf, Weipa",diesel,50.0
+809,30/11/2015,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Cairns",diesel,5.0
+810,3/12/2015,Brisbane,Ship,Recreational,coastal waters,"Columbus Drive Canal, Hollywell, Gold Coast",bilge,15.0
 811,14/12/2015,Cairns,Unknown,Unknown,coastal waters,"Johnstone River near Banana Island, Innisfail",diesel,unknown
-812,17/12/2015,Townsville,Ship,Commercial,port limits,"CUF Berth, Ross Haven Marina, Ross River, Townsville",diesel,600
-813,22/12/2015,Cairns,Ship,Commercial,coastal waters,"Mouth of Bloomfield River, Cape York",diesel,sheen
-814,31/12/2015,Brisbane,Ship,Recreational,coastal waters,"Sanctuary Cove Marina, Hope Island, Gold Coast",diesel,200
+812,17/12/2015,Townsville,Ship,Commercial,port limits,"CUF Berth, Ross Haven Marina, Ross River, Townsville",diesel,600.0
+813,22/12/2015,Cairns,Ship,Commercial,coastal waters,"Mouth of Bloomfield River, Cape York",diesel,unknown
+814,31/12/2015,Brisbane,Ship,Recreational,coastal waters,"Sanctuary Cove Marina, Hope Island, Gold Coast",diesel,200.0
 815,3/01/2016,Mackay,Ship,Recreational,coastal waters,"Whitsunday Sailing Club, Rock Wall, Airlie Beach",other,unknown
-816,5/01/2016,Townsville,Ship,Recreational,port limits,"Ross Creek, Townsville",diesel,60
+816,5/01/2016,Townsville,Ship,Recreational,port limits,"Ross Creek, Townsville",diesel,60.0
 817,9/01/2016,Mackay,Ship,Recreational,coastal waters,"Shute Harbour Mooring Grid, Shute Harbour",sheen,unknown
 818,22/01/2016,Brisbane,Unknown,Unknown,coastal waters,"Queensland Cruising Yacht Club, Cabbage Tree Creek, Sandgate",diesel,unknown
-819,2/02/2016,Brisbane,Land,Unknown,coastal waters,"Nerang River at Pacific Motorway Road Bridge, Nerang",diesel,100
-820,2/02/2016,Mackay,Land,Unknown,port limits,"Fuel Pontoon, Mackay Marina,  Mackay",other,70
+819,2/02/2016,Brisbane,Land,Unknown,coastal waters,"Nerang River at Pacific Motorway Road Bridge, Nerang",diesel,100.0
+820,2/02/2016,Mackay,Land,Unknown,port limits,"Fuel Pontoon, Mackay Marina,  Mackay",other,70.0
 821,16/02/2016,Brisbane,Unknown,Unknown,coastal waters,"Mooloola River, Opposite Pilot Station, Mooloolaba",diesel,unknown
-822,18/02/2016,Cairns,Ship,Commercial,port limits,"Main Wharf, Thursday Island, Torres Strait",diesel,10
+822,18/02/2016,Cairns,Ship,Commercial,port limits,"Main Wharf, Thursday Island, Torres Strait",diesel,10.0
 823,26/02/2016,Gladstone,Unknown,Unknown,port limits,"Sea Link Berths, Gladstone Marina, Gladstone",bilge,unknown
 824,28/02/2016,Townsville,Unknown,Unknown,port limits,"D Finger Breakwater Marina, Townsville",diesel,unknown
-825,4/04/2016,Gladstone,Land,Unknown,port limits,"Service Wharf, Gladstone Marina, Gladstone",diesel,11
+825,4/04/2016,Gladstone,Land,Unknown,port limits,"Service Wharf, Gladstone Marina, Gladstone",diesel,11.0
 826,5/04/2016,Brisbane,Ship,Commercial,port limits,"Berth 4, Fisherman Islands, Brisbane River, Brisbane",diesel,unknown
 827,5/04/2016,Townsville,Land,Unknown,port limits,"Port of Townsville, Townsville",other,unknown
-828,7/04/2016,Brisbane,Ship,Recreational,coastal waters,"South West corner of Wave Break Island, Gold Coast",diesel,15
-829,7/04/2016,Cairns,Unknown,Unknown,port limits,"Karumba Boat Ramp, Karumba",diesel,20
+828,7/04/2016,Brisbane,Ship,Recreational,coastal waters,"South West corner of Wave Break Island, Gold Coast",diesel,15.0
+829,7/04/2016,Cairns,Unknown,Unknown,port limits,"Karumba Boat Ramp, Karumba",diesel,20.0
 830,8/04/2016,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,unknown
 831,20/04/2016,Brisbane,Ship,Recreational,coastal waters,"Main Channel, Horizon Shores Marina, Gold Coast",hydraulic oil,unknown
 832,30/04/2016,Brisbane,Ship,Recreational,coastal waters,"Mooloolaba Boat Harbour, Mooloolaba",sheen,unknown
-833,3/05/2016,Townsville,Ship,Recreational,port limits,"Berth 7 Townsville Yacht Club, Townsville",diesel,100
+833,3/05/2016,Townsville,Ship,Recreational,port limits,"Berth 7 Townsville Yacht Club, Townsville",diesel,100.0
 834,11/05/2016,Gladstone,Ship,Commercial,coastal waters,Approximately 10nm East of Round Hill Head,other,unknown
 835,11/05/2016,Gladstone,Ship,Commercial,port limits,"Pelican Bay, Great Sandy Straits",diesel,unknown
-836,28/05/2016,Gladstone,Ship,Commercial,port limits,"Australia Pacific LNG Terminal, Curtis Island, Gladstone",hydraulic oil,10
+836,28/05/2016,Gladstone,Ship,Commercial,port limits,"Australia Pacific LNG Terminal, Curtis Island, Gladstone",hydraulic oil,10.0
 837,29/05/2016,Townsville,Ship,Commercial,port limits,"Outer Harbour, Bowen",diesel,unknown
 838,30/05/2016,Mackay,Ship,Recreational,coastal waters,"F Arm, Port of Airlie, Airlie Beach",sheen,unknown
 839,4/06/2016,Brisbane,Ship,Commercial,coastal waters,"Carters Basin, Gold Coast Broadwater",diesel,unknown
-840,8/06/2016,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island, Torres Strait",diesel,5
+840,8/06/2016,Cairns,Land,Unknown,port limits,"Main Wharf, Thursday Island, Torres Strait",diesel,5.0
 841,8/06/2016,Townsville,Ship,Unknown,port limits,"Townsville Harbour, Townsville",grease,unknown
 842,20/06/2016,Brisbane,Land,Unknown,port limits,"Boggy Creek, Brisbane",other,unknown
 843,22/06/2016,Cairns,Ship,Commercial,port limits,"Lorim Point Tug Berth, Weipa",sheen,unknown
 844,1/07/2016,Gladstone,Ship,Recreational,port limits,"Burnett Heads Marina, Bundaberg",diesel,unknown
-845,2/07/2016,Brisbane,Ship,Recreational,coastal waters,"Breakfast Creek, Brisbane",diesel,100
+845,2/07/2016,Brisbane,Ship,Recreational,coastal waters,"Breakfast Creek, Brisbane",diesel,100.0
 846,5/07/2016,Brisbane,Ship,Recreational,coastal waters,"Saltwater Creek, 5 Chanpagne Blvd, Helensvale, Gold Coast",diesel,unknown
-847,7/07/2016,Cairns,Unknown,Unknown,port limits,"Endeavour River, Cooktown",diesel,20
+847,7/07/2016,Cairns,Unknown,Unknown,port limits,"Endeavour River, Cooktown",diesel,20.0
 848,12/07/2016,Cairns,Ship,Recreational,port limits,"Mourilyan Harbour, Mourilyan",diesel,unknown
 849,13/07/2016,Gladstone,Unknown,Unknown,port limits,"O'Connell Wharf, Auckland Creek, Gladstone",sheen,unknown
 850,13/07/2016,Gladstone,Ship,Commercial,port limits,"Trawler base, Gladstone Marina, Gladstone",sump oil,unknown
 851,15/07/2016,Brisbane,Ship,Commercial,coastal waters,"Caboolture River, Brisbane",other,unknown
 852,21/07/2016,Townsville,Unknown,Unknown,port limits,"Berth 8, Townsville Port, Townsville",sheen,unknown
-853,23/07/2016,Cairns,Ship,Commercial,port limits,"Fearnley Street boat ramp, Trinity Inlet, Cairns",bilge,15
-854,25/07/2016,Brisbane,Ship,Recreational,port limits,"Berth number 2, Fisherman Islands,  Brisbane",hydraulic oil,10
+853,23/07/2016,Cairns,Ship,Commercial,port limits,"Fearnley Street boat ramp, Trinity Inlet, Cairns",bilge,15.0
+854,25/07/2016,Brisbane,Ship,Recreational,port limits,"Berth number 2, Fisherman Islands,  Brisbane",hydraulic oil,10.0
 855,1/08/2016,Cairns,Ship,Commercial,port limits,"Hey River terminal, Weipa",hydraulic oil,unknown
-856,21/08/2016,Townsville,Ship,Recreational,port limits,"Berth J15, Townsville Yacht Club marina, Townsville",diesel,30
+856,21/08/2016,Townsville,Ship,Recreational,port limits,"Berth J15, Townsville Yacht Club marina, Townsville",diesel,30.0
 857,22/08/2016,Gladstone,Unknown,Unknown,port limits,"Urangan harbour, Hervey Bay",sheen,unknown
-858,2/09/2016,Gladstone,Land,Unknown,port limits,"Wiggins Island Coal Export Terminal Wharf, Gladstone",other,10
-859,9/09/2016,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Trinity Inlet, Cairns",diesel,20
-860,9/09/2016,Cairns,Ship,Commercial,coastal waters,"Flynn Reef, Cairns",diesel,2
+858,2/09/2016,Gladstone,Land,Unknown,port limits,"Wiggins Island Coal Export Terminal Wharf, Gladstone",other,10.0
+859,9/09/2016,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Trinity Inlet, Cairns",diesel,20.0
+860,9/09/2016,Cairns,Ship,Commercial,coastal waters,"Flynn Reef, Cairns",diesel,2.0
 861,10/09/2016,Gladstone,Unknown,Unknown,port limits,"Bundaberg Port Marina, Bundaberg",diesel,unknown
-862,14/09/2016,Gladstone,Land,Unknown,port limits,"Gladstone Marine Centre, Gladstone Marina, Gladstone",other,20
+862,14/09/2016,Gladstone,Land,Unknown,port limits,"Gladstone Marine Centre, Gladstone Marina, Gladstone",other,20.0
 863,20/09/2016,Cairns,Unknown,Unknown,port limits,"Cairns crusing yacht squadron, Smiths Creek Cairns",paint,unknown
 864,22/09/2016,Cairns,Unknown,Unknown,port limits,"Marlin Marina, Trinity Inlet, Cairns",diesel,unknown
 865,4/10/2016,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Chinaman Creek, Cairns",sheen,unknown
 866,7/10/2016,Gladstone,Ship,Commercial,port limits,"Upstream of main bridge, Auckland Creek, Gladstone",other,unknown
 867,9/10/2016,Townsville,Unknown,Unknown,coastal waters,"Norship base, Port Hinchinbrook",diesel,unknown
 868,17/10/2016,Gladstone,Unknown,Unknown,coastal waters,"Eurong, East side of Fraser Island",oil (unspec),unknown
-869,18/10/2016,Gladstone,Ship,Commercial,port limits,"Clinton swing basin, Gladstone harbour, Gladstone",hydraulic oil,5
-870,20/10/2016,Townsville,Unknown,Unknown,port limits,"Berth 8, Townsville Port, Townsville",diesel,10
+869,18/10/2016,Gladstone,Ship,Commercial,port limits,"Clinton swing basin, Gladstone harbour, Gladstone",hydraulic oil,5.0
+870,20/10/2016,Townsville,Unknown,Unknown,port limits,"Berth 8, Townsville Port, Townsville",diesel,10.0
 871,21/10/2016,Cairns,Ship,Commercial,port limits,"Humbug wharf, Weipa",sheen,unknown
 872,22/10/2016,Cairns,Ship,Recreational,port limits,"South of Passenger wharf, Horn Island anchorage, Horn Island",sheen,unknown
 873,27/10/2016,Gladstone,Ship,Commercial,port limits,"Curtis ferries pontoon, Gladstone marina, Gladstone",diesel,unknown
-874,5/11/2016,Cairns,Ship,Unknown,port limits,"Navy base, Cairns",diesel,20
+874,5/11/2016,Cairns,Ship,Unknown,port limits,"Navy base, Cairns",diesel,20.0
 875,10/11/2016,Brisbane,Unknown,Unknown,port limits,"Lawries Marina, Mooloolaba",diesel,unknown
-876,16/11/2016,Brisbane,Ship,Commercial,port limits,"Brisabne Anchorage, Brisbane",unknown,5
+876,16/11/2016,Brisbane,Ship,Commercial,port limits,"Brisabne Anchorage, Brisbane",unknown,5.0
 877,24/11/2016,Brisbane,Unknown,Unknown,coastal waters,"Holman Street Ferry terminal, Kangaroo Point, Brisbane River",unknown,unknown
 878,25/11/2016,Gladstone,Ship,Commercial,port limits,"Ship berth, Port Alma",oil (unspec),unknown
 879,17/12/2016,Brisbane,Ship,Recreational,coastal waters,"Dog Beach, entrance to the Noosa River, Sunshine Coast",bilge,unknown
-880,20/12/2016,Cairns,Ship,Commercial,port limits,"Smiths Creek, Cairns",diesel,10
+880,20/12/2016,Cairns,Ship,Commercial,port limits,"Smiths Creek, Cairns",diesel,10.0
 881,23/12/2016,Brisbane,Unknown,Unknown,port limits,"Aquarium Passage, Pinkenba Reach, Brisbane River, Brisbane",diesel,unknown
-882,25/12/2016,Cairns,Ship,Commercial,coastal waters,Ribbon Reef number 3,diesel,600
-883,27/12/2016,Townsville,Ship,Commercial,port limits,"Tug pens, Berth 6, Port of Townsville",hydraulic oil,5
-884,2/01/2017,Brisbane,Unknown,Unknown,coastal waters,"Spinnaker Sound Marina, Sandstone Point",sump oil,5
+882,25/12/2016,Cairns,Ship,Commercial,coastal waters,Ribbon Reef number 3,diesel,600.0
+883,27/12/2016,Townsville,Ship,Commercial,port limits,"Tug pens, Berth 6, Port of Townsville",hydraulic oil,5.0
+884,2/01/2017,Brisbane,Unknown,Unknown,coastal waters,"Spinnaker Sound Marina, Sandstone Point",sump oil,5.0
 885,5/01/2017,Cairns,Ship,Commercial,port limits,"Duck Pond, Smiths Creek, Cairns",hydraulic oil,1.5
 886,9/01/2017,Brisbane,Unknown,Unknown,coastal waters,"Thompsons Beach, Victoria Point",diesel,unknown
-887,27/01/2017,Cairns,Ship,Commercial,coastal waters,"Fitzgerald Esplanade, Johnstone River, Innisfail.",diesel,100
-888,31/01/2017,Mackay,Ship,Commercial,coastal waters,"Finger number 12, Airlie Beach Marina, Airlie Beach",diesel,8
+887,27/01/2017,Cairns,Ship,Commercial,coastal waters,"Fitzgerald Esplanade, Johnstone River, Innisfail.",diesel,100.0
+888,31/01/2017,Mackay,Ship,Commercial,coastal waters,"Finger number 12, Airlie Beach Marina, Airlie Beach",diesel,8.0
 889,9/02/2017,Brisbane,Ship,Commercial,port limits,"Spitfire Channel, Moreton Bay, Brisbane",hydraulic oil,unknown
-890,10/02/2017,Townsville,Ship,Commercial,port limits,"Vehicle Ferry Terminal, Ross creek, Townsville",diesel,15
+890,10/02/2017,Townsville,Ship,Commercial,port limits,"Vehicle Ferry Terminal, Ross creek, Townsville",diesel,15.0
 891,13/02/2017,Brisbane,Unknown,Unknown,port limits,"Mooloolaba Yachat Club, Mooloolaba River, Mooloolaba",diesel,unknown
 892,14/02/2017,Townsville,Ship,Commercial,port limits,"Port of Townsville, Townsville",soot,unknown
 893,18/02/2017,Brisbane,Unknown,Unknown,port limits,"Browns slip way, Mooloolaba River, Mooloolaba",diesel,unknown
-894,18/02/2017,Townsville,Ship,Commercial,port limits,"Port of Townsville, Townsville",hydraulic oil,1
-895,21/02/2017,Mackay,Ship,Commercial,port limits,"Anchorage S13, Hay Point",other,3
+894,18/02/2017,Townsville,Ship,Commercial,port limits,"Port of Townsville, Townsville",hydraulic oil,1.0
+895,21/02/2017,Mackay,Ship,Commercial,port limits,"Anchorage S13, Hay Point",other,3.0
 896,22/02/2017,Gladstone,Unknown,Unknown,port limits,"Public boat ramp, Gladstone Marina, Gladstone",bilge,unknown
 897,25/02/2017,Townsville,Unknown,Unknown,port limits,"Fantasea loading ramp, Ross Creek, Townsville",sheen,unknown
-898,10/03/2017,Mackay,Ship,Commercial,port limits,"Hey Point terminal, Hay Point",diesel,40
+898,10/03/2017,Mackay,Ship,Commercial,port limits,"Hey Point terminal, Hay Point",diesel,40.0
 899,14/03/2017,Brisbane,Land,Unknown,coastal waters,"Kawana Waters Canal, Sunshine Coast",sheen,unknown
 900,17/03/2017,Townsville,Unknown,Unknown,port limits,"Rosshaven Marina, Ross River, Townsville",sheen,unknown
-901,18/03/2017,Brisbane,Ship,Commercial,port limits,"Incitec South, Lytton Reach, Brisbane River, Brisbane",hfo,500
-902,21/03/2017,Cairns,Ship,Recreational,port limits,"Main Wharf, Thursday Island",diesel,2
+901,18/03/2017,Brisbane,Ship,Commercial,port limits,"Incitec South, Lytton Reach, Brisbane River, Brisbane",hfo,500.0
+902,21/03/2017,Cairns,Ship,Recreational,port limits,"Main Wharf, Thursday Island",diesel,2.0
 903,24/03/2017,Townsville,Unknown,Unknown,port limits,Townsville - Upstream Ross Creek in vicinity of Lowths Bridge,sheen,unknown
-904,26/03/2017,Cairns,Ship,Commercial,port limits,Karumba - Raptis Wharf,diesel,300
+904,26/03/2017,Cairns,Ship,Commercial,port limits,Karumba - Raptis Wharf,diesel,300.0
 905,27/03/2017,Cairns,Ship,Commercial,port limits,"HumBug Terminal, Weipa",other,unknown
 906,19/04/2017,Gladstone,Land,Unknown,port limits,Drain Near Tuan Creek,grease,unknown
-907,16/05/2017,Cairns,Ship,Commercial,port limits,Trinity Wharf,lubricant oil,1
-908,17/05/2017,Townsville,Ship,Commercial,port limits,Breth 5 Port of Townsville,diesel,1
+907,16/05/2017,Cairns,Ship,Commercial,port limits,Trinity Wharf,lubricant oil,1.0
+908,17/05/2017,Townsville,Ship,Commercial,port limits,Breth 5 Port of Townsville,diesel,1.0
 909,17/05/2017,Gladstone,Unknown,Unknown,port limits,"Urangan harbour, Hervey Bay",sheen,unknown
 910,26/05/2017,Mackay,Ship,Commercial,port limits,BMA Hay Point (old) Trestle Bent 97,hydraulic oil,unknown
 911,21/06/2017,Cairns,Ship,Commercial,port limits,BSE slipway floating wharf,diesel,0.5
 912,26/06/2017,Gladstone,Ship,Commercial,port limits,"Urangan boat harbour, Hervey Bay",diesel,unknown
-913,29/06/2017,Cairns,Ship,Commercial,port limits,Cairns Trinity Wharf # 7/8.,other,40
+913,29/06/2017,Cairns,Ship,Commercial,port limits,Cairns Trinity Wharf # 7/8.,other,40.0
 914,,Townsville,Unknown,Unknown,port limits,"Northern entrance to West Channel, Townsville",diesel,unknown
 915,,Brisbane,Ship,Recreational,port limits,"Qld Cruising Yacht Club, Cabbage Tree Creek, Shorncliffe",oil (unspec),unknown
 916,,Brisbane,Ship,Unknown,port limits,"Queensland Bulk Terminal, Quarries Reach, Brisbane",lubricant oil,0.3
-917,,Townsville,Land,Unknown,port limits,Berth 4 - Port of Townsville,other,50
+917,,Townsville,Land,Unknown,port limits,Berth 4 - Port of Townsville,other,50.0
 918,,Gladstone,Ship,Unknown,port limits,"Town Reach, Burnett River, Bundaberg",diesel,unknown
 919,,Gladstone,Land,Unknown,port limits,"Queensland Alumina Limited, South Trees Wharf, Gladstone",other,unknown
-920,,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Finger J2, Gladstone",sump oil,4
+920,,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Finger J2, Gladstone",sump oil,4.0
 921,,Brisbane,Unknown,Unknown,port limits,Luggage Point Treatment Plant - Brisbane,other,unknown
 922,,Brisbane,Ship,Unknown,port limits,"Eagle Street Ferry Terminal, Brisbane River",diesel,unknown
-923,,Gladstone,Ship,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,20
-924,,Brisbane,Ship,Recreational,coastal waters,"Paradise Point, west of Ephraim Island, Gold Coast",diesel,10
-925,,Cairns,Ship,Commercial,port limits,"B Finger, Commercial Fisherman base No 1, Cairns",diesel,2
-926,,Cairns,Ship,Commercial,port limits,"Norship, Smiths Creek, Cairns",hydraulic oil,2
+923,,Gladstone,Ship,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,20.0
+924,,Brisbane,Ship,Recreational,coastal waters,"Paradise Point, west of Ephraim Island, Gold Coast",diesel,10.0
+925,,Cairns,Ship,Commercial,port limits,"B Finger, Commercial Fisherman base No 1, Cairns",diesel,2.0
+926,,Cairns,Ship,Commercial,port limits,"Norship, Smiths Creek, Cairns",hydraulic oil,2.0
 927,,Cairns,Ship,Commercial,port limits,"Amrun CHITH export Facility,  Weipa",diesel,unknown
 928,,Cairns,Ship,Commercial,coastal waters,"2.8nm from Gubbins Reef, Great Barrier Reef Marine Park",diesel,unknown
 929,,Townsville,Ship,Commercial,port limits,"Berth 8, Port of Townsville, Townsville",garbage,unknown
@@ -936,164 +936,164 @@
 934,,Brisbane,Ship,Unknown,coastal waters,"Southern end of McIntosh Island, Gold Coast",other,unknown
 935,,Cairns,Land,Unknown,port limits,"Amrun CHITH export Facility, Weipa.",diesel,unknown
 936,,Mackay,Unknown,Unknown,port limits,"East Point Beach, Mackay",grease,unknown
-937,,Brisbane,Unknown,Unknown,port limits,"Dunwich, Stradbroke Island, Moreton Bay",hydraulic oil,1
-938,,Mackay,Unknown,Unknown,coastal waters,"Homestead Bay, St Bees Island",diesel,50
-939,,Gladstone,Unknown,Unknown,coastal waters,"Rosslyn Bay Marina, Rosslyn Bay",diesel,200
+937,,Brisbane,Unknown,Unknown,port limits,"Dunwich, Stradbroke Island, Moreton Bay",hydraulic oil,1.0
+938,,Mackay,Unknown,Unknown,coastal waters,"Homestead Bay, St Bees Island",diesel,50.0
+939,,Gladstone,Unknown,Unknown,coastal waters,"Rosslyn Bay Marina, Rosslyn Bay",diesel,200.0
 940,,Townsville,Unknown,Unknown,coastal waters,"Deep Creek, Saunders Beach, Townsville",unknown,unknown
 941,,Brisbane,Unknown,Recreational,coastal waters,"Southport Yacht Club Pontoon, Southport",diesel,0.5
-942,,Townsville,Unknown,Unknown,port limits,"Berth 4, Townsville Marina, Townsville",sheen,1
-943,,Brisbane,Unknown,Recreational,coastal waters,"Horizon Shores Marina, Gold Coast",diesel,1
-944,,Cairns,Unknown,Unknown,coastal waters,"Cairns Duck pond, Smiths Creek , Cairns",sheen,1
-945,,Cairns,Ship,Commercial,port limits,"A Finger, Marlin Marina, Cairns",diesel,100
+942,,Townsville,Unknown,Unknown,port limits,"Berth 4, Townsville Marina, Townsville",sheen,1.0
+943,,Brisbane,Unknown,Recreational,coastal waters,"Horizon Shores Marina, Gold Coast",diesel,1.0
+944,,Cairns,Unknown,Unknown,coastal waters,"Cairns Duck pond, Smiths Creek , Cairns",sheen,1.0
+945,,Cairns,Ship,Commercial,port limits,"A Finger, Marlin Marina, Cairns",diesel,100.0
 946,,Gladstone,Land,Unknown,port limits,"Fitzroy River, Rockhampton",sheen,unknown
-947,,Brisbane,Ship,Recreational,coastal waters,"South of Currigee Camp Ground, South Stradbroke Island",sheen,20
+947,,Brisbane,Ship,Recreational,coastal waters,"South of Currigee Camp Ground, South Stradbroke Island",sheen,20.0
 948,,Brisbane,Unknown,Unknown,port limits,"Doboy Ck, Bulimba, Brisbane",oil (unspec),unknown
-949,,Brisbane,Unknown,Unknown,coastal waters,"Mariners Cove Fuel Wharf, Gold Coast",diesel,10
+949,,Brisbane,Unknown,Unknown,coastal waters,"Mariners Cove Fuel Wharf, Gold Coast",diesel,10.0
 950,,Brisbane,Ship,Commercial,port limits,"Brisbane River, Teneriffe, Brisbane",soot,0.5
 951,,Townsville,Unknown,Unknown,port limits,"Townsville Yacht Club, Townsville",diesel,0.5
-952,,Gladstone,Unknown,Unknown,coastal waters,"Mary River Slipway, Maryborough",diesel,20
+952,,Gladstone,Unknown,Unknown,coastal waters,"Mary River Slipway, Maryborough",diesel,20.0
 953,,Gladstone,Unknown,Unknown,coastal waters,"Snapper Creek, Tin Can Bay",sheen,unknown
-954,,Cairns,Ship,Commercial,port limits,"New Trawler Pens, Smiths Creek, Cairns",diesel,10
-955,,Brisbane,Unknown,Unknown,port limits,"Brisbane River, Port of Brisbane",other,2
+954,,Cairns,Ship,Commercial,port limits,"New Trawler Pens, Smiths Creek, Cairns",diesel,10.0
+955,,Brisbane,Unknown,Unknown,port limits,"Brisbane River, Port of Brisbane",other,2.0
 956,,Brisbane,Unknown,Unknown,coastal waters,"Mooloolah River, Mooloolaba",sheen,1.5
 957,,Brisbane,Unknown,Unknown,coastal waters,"Mooloolah River, Mooloolaba, Commercial Fishing Wharves",sheen,1.5
-958,,Townsville,Ship,Commercial,port limits,"Townsville Breakwater, Townsville",hydraulic oil,30
+958,,Townsville,Ship,Commercial,port limits,"Townsville Breakwater, Townsville",hydraulic oil,30.0
 959,,Mackay,Unknown,Unknown,coastal waters,"Abell Point Marina, Airlie Beach",sheen,2.5
-960,,Brisbane,Unknown,Unknown,port limits,"Bulimba Reach, Brisbane",sheen,4
-961,,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",sheen,12
-962,,Townsville,Unknown,Unknown,port limits,"Ross Creek Boat Ramp, Townsville",oil (unspec),2
-963,4/07/2018,Brisbane,Land,Unknown,coastal waters,"Vicinity of Pelican Boat Hire, Brisbane",hydraulic oil,<2l
-964,9/07/2018,Cairns,Unknown,Unknown,port limits,"Vicinity of Prawn Star Seafoods, Cairns",oil (unspec),2-3l
-965,13/07/2018,Townsville,Unknown,Unknown,port limits,"Goondi Creek, Townsville",sheen,500x6m
-966,21/07/2018,Mackay,Ship,Recreational,coastal waters,"Berth 98, Port of Airlie, Airlie Beach",hydraulic oil,15l
-967,31/07/2018,Brisbane,Ship,Commercial,port limits,"GrainCorp Terminal, Brisbane",hydraulic oil,<1l
+960,,Brisbane,Unknown,Unknown,port limits,"Bulimba Reach, Brisbane",sheen,4.0
+961,,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",sheen,12.0
+962,,Townsville,Unknown,Unknown,port limits,"Ross Creek Boat Ramp, Townsville",oil (unspec),2.0
+963,4/07/2018,Brisbane,Land,Unknown,coastal waters,"Vicinity of Pelican Boat Hire, Brisbane",hydraulic oil,2.0
+964,9/07/2018,Cairns,Unknown,Unknown,port limits,"Vicinity of Prawn Star Seafoods, Cairns",oil (unspec),2.5
+965,13/07/2018,Townsville,Unknown,Unknown,port limits,"Goondi Creek, Townsville",sheen,3.0
+966,21/07/2018,Mackay,Ship,Recreational,coastal waters,"Berth 98, Port of Airlie, Airlie Beach",hydraulic oil,15.0
+967,31/07/2018,Brisbane,Ship,Commercial,port limits,"GrainCorp Terminal, Brisbane",hydraulic oil,1.0
 968,13/08/2018,Cairns,Unknown,Unknown,coastal waters,"Port Douglas Yacht Club, Port Douglas",diesel,unknown
-969,9/09/2018,Cairns,Land,Unknown,port limits,"Chith Export Facility, Skardon River",diesel,100-200l
-970,11/09/2018,Gladstone,Ship,Commercial,port limits,"Hervey Bay Marina, Hervey Bay",bilge,200m x 10m
-971,13/09/2018,Gladstone,Unknown,Unknown,port limits,"Great Sandy Straits Marina, Hervey Bay",bilge,95m x 25m
-972,17/09/2018,Cairns,Ship,Commercial,port limits,"A finger, Cairns Fishrmans Base, Cairns",diesel,20-30l
-973,19/10/2018,Gladstone,Ship,Commercial,port limits,"Great Sandy Straits Marina, Hervey Bay",hydraulic oil,1l
-974,15/11/2018,Brisbane,Unknown,Unknown,port limits,"Aquatic Paradise Canal, Brisbane",sheen,100mx100m
-975,25/11/2018,Brisbane,Ship,Commercial,port limits,"Lamb Island Boat Ramp, Brisbane",sump oil,20l
-976,8/12/2018,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",bilge,200mx4m
-977,8/01/2019,Brisbane,Ship,Recreational,coastal waters,"Sanctuary Cove Marina, Sanctuary Cove",diesel,sheen
-978,14/01/2019,Mackay,Land,Unknown,coastal waters,"Airlie Creek, Airlie Beach",cooking oil,100m x 50m
-979,14/01/2019,Brisbane,Ship,Commercial,port limits,"GrainCorp Liquid Terminal, Brisbane",other,200l
-980,17/01/2019,Cairns,Unknown,Unknown,coastal waters,"Poll Islet (S Warraber Island), Torres Straits",oil (unspec),44g drum
-981,4/02/2019,Gladstone,Ship,Commercial,port limits,"Burnett Heads Marina, Bundaberg",hydraulic oil,2x2m
-982,6/02/2019,Mackay,Ship,Commercial,port limits,"Anchored off Airlie Beach, Airlie Beach",sheen,4x5m
-983,9/02/2019,Townsville,Ship,Recreational,port limits,"Townsville Duck Pond, Townsville",sheen,600x150m
+969,9/09/2018,Cairns,Land,Unknown,port limits,"Chith Export Facility, Skardon River",diesel,150.0
+970,11/09/2018,Gladstone,Ship,Commercial,port limits,"Hervey Bay Marina, Hervey Bay",bilge,2.0
+971,13/09/2018,Gladstone,Unknown,Unknown,port limits,"Great Sandy Straits Marina, Hervey Bay",bilge,2.375
+972,17/09/2018,Cairns,Ship,Commercial,port limits,"A finger, Cairns Fishrmans Base, Cairns",diesel,25.0
+973,19/10/2018,Gladstone,Ship,Commercial,port limits,"Great Sandy Straits Marina, Hervey Bay",hydraulic oil,1.0
+974,15/11/2018,Brisbane,Unknown,Unknown,port limits,"Aquatic Paradise Canal, Brisbane",sheen,10.0
+975,25/11/2018,Brisbane,Ship,Commercial,port limits,"Lamb Island Boat Ramp, Brisbane",sump oil,20.0
+976,8/12/2018,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",bilge,0.8
+977,8/01/2019,Brisbane,Ship,Recreational,coastal waters,"Sanctuary Cove Marina, Sanctuary Cove",diesel,unknown
+978,14/01/2019,Mackay,Land,Unknown,coastal waters,"Airlie Creek, Airlie Beach",cooking oil,5.0
+979,14/01/2019,Brisbane,Ship,Commercial,port limits,"GrainCorp Liquid Terminal, Brisbane",other,200.0
+980,17/01/2019,Cairns,Unknown,Unknown,coastal waters,"Poll Islet (S Warraber Island), Torres Straits",oil (unspec),unknown
+981,4/02/2019,Gladstone,Ship,Commercial,port limits,"Burnett Heads Marina, Bundaberg",hydraulic oil,0.004
+982,6/02/2019,Mackay,Ship,Commercial,port limits,"Anchored off Airlie Beach, Airlie Beach",sheen,0.02
+983,9/02/2019,Townsville,Ship,Recreational,port limits,"Townsville Duck Pond, Townsville",sheen,90.0
 984,13/02/2019,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,unknown
-985,27/02/2019,Brisbane,Ship,Recreational,coastal waters,"Compass Marina, Scarborough",diesel,100x3m
-986,1/03/2019,Townsville,Land,Unknown,port limits,"Port of Townsville berths, Townsville",diesel,10l
-987,15/03/2019,Gladstone,Land,Unknown,coastal waters,"Fitzroy River, Rockhampton",sheen,650x2m
-988,16/03/2019,Brisbane,Ship,Recreational,port limits,"Hope Island Marina, Gold Coast",hydraulic oil,20l
+985,27/02/2019,Brisbane,Ship,Recreational,coastal waters,"Compass Marina, Scarborough",diesel,0.3
+986,1/03/2019,Townsville,Land,Unknown,port limits,"Port of Townsville berths, Townsville",diesel,10.0
+987,15/03/2019,Gladstone,Land,Unknown,coastal waters,"Fitzroy River, Rockhampton",sheen,1.3
+988,16/03/2019,Brisbane,Ship,Recreational,port limits,"Hope Island Marina, Gold Coast",hydraulic oil,20.0
 989,16/03/2019,Brisbane,Ship,Recreational,port limits,"Cabbage Tree Creek, Deagon, Brisbane",diesel,unknown
-990,21/03/2019,Cairns,Ship,Commercial,port limits,"Smiths Creek, Trinity Inlet, Cairns",hydraulic oil,30l
-991,27/03/2019,Cairns,Ship,Commercial,coastal waters,Lockhart River,diesel,200-400l
-992,29/03/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Bunkering Anchorage, Gladstone",diesel,600x20m
-993,23/04/2019,Brisbane,Ship,Recreational,port limits,"Mooloolaba Marina, Mooloolaba",diesel,2l
+990,21/03/2019,Cairns,Ship,Commercial,port limits,"Smiths Creek, Trinity Inlet, Cairns",hydraulic oil,30.0
+991,27/03/2019,Cairns,Ship,Commercial,coastal waters,Lockhart River,diesel,300.0
+992,29/03/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Bunkering Anchorage, Gladstone",diesel,12.0
+993,23/04/2019,Brisbane,Ship,Recreational,port limits,"Mooloolaba Marina, Mooloolaba",diesel,2.0
 994,29/04/2019,Cairns,Ship,Commercial,port limits,"Humbug Wharf,  Weipa",hydraulic oil,unknown
-995,29/04/2019,Cairns,Ship,Commercial,port limits,Main Wharf  - Thursday Island,bilge,10-15l
-996,30/04/2019,Cairns,Ship,Commercial,port limits,"Marlin Marina, Cairns",cooking oil,200l
+995,29/04/2019,Cairns,Ship,Commercial,port limits,Main Wharf  - Thursday Island,bilge,12.5
+996,30/04/2019,Cairns,Ship,Commercial,port limits,"Marlin Marina, Cairns",cooking oil,200.0
 997,14/05/2019,Gladstone,Ship,Unknown,coastal waters,"Burnett Heads, Bundaberg",garbage,unknown
-998,17/05/2019,Brisbane,Ship,Commercial,coastal waters,"Sea World Wharf, Gold Coast",diesel,0.5l
+998,17/05/2019,Brisbane,Ship,Commercial,coastal waters,"Sea World Wharf, Gold Coast",diesel,0.5
 999,24/05/2019,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Cairns",oil (unspec),unknown
-1000,26/05/2019,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,20mx30m
-1001,27/05/2019,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",other,200m
-1002,29/05/2019,Cairns,Ship,Commercial,coastal waters,"Blue Water Canal, Gold Coast",diesel,4l
-1003,28/05/2019,Brisbane,Ship,Recreational,coastal waters,"Runaway Bay, Gold Coast",diesel,200mx 50m
-1004,31/05/2019,Brisbane,Land,Unknown,port limits,"Caltex Wharf, Lytton, Brisbane",diesel,50-60m
-1005,1/06/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Gladstone",sheen,1m x 10m
-1006,6/06/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Gladstone",sheen,0.5 x 5m
-1007,13/06/2019,Gladstone,Ship,Recreational,coastal waters,"Round Hill Creek, Town of 1770",sheen,50m
-1008,28/06/2019,Mackay,Ship,Commercial,port limits,"Maritime Terminal, Port of Airlie, Airlie Beach",sheen,0.5m x 3m
-1009,1/07/2019,Brisbane,Ship,Recreational,coastal waters,"Southport Yacht Club, Southport",diesel,50l
+1000,26/05/2019,Cairns,Unknown,Unknown,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,0.6
+1001,27/05/2019,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",other,unknown
+1002,29/05/2019,Cairns,Ship,Commercial,coastal waters,"Blue Water Canal, Gold Coast",diesel,4.0
+1003,28/05/2019,Brisbane,Ship,Recreational,coastal waters,"Runaway Bay, Gold Coast",diesel,10.0
+1004,31/05/2019,Brisbane,Land,Unknown,port limits,"Caltex Wharf, Lytton, Brisbane",diesel,55.0
+1005,1/06/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Gladstone",sheen,0.01
+1006,6/06/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Gladstone",sheen,0.025
+1007,13/06/2019,Gladstone,Ship,Recreational,coastal waters,"Round Hill Creek, Town of 1770",sheen,unknown
+1008,28/06/2019,Mackay,Ship,Commercial,port limits,"Maritime Terminal, Port of Airlie, Airlie Beach",sheen,0.015
+1009,1/07/2019,Brisbane,Ship,Recreational,coastal waters,"Southport Yacht Club, Southport",diesel,50.0
 1010,1/07/2019,Brisbane,Ship,Commercial,coastal waters,"Carlo Point, Great Sandy Straits, Hervey Bay",garbage,unknown
 1011,8/07/2019,Brisbane,Ship,Commercial,port limits,"Koopa Channel Swing Basin, Brisbane",hydraulic oil,unknown
-1012,16/07/2019,Cairns,Ship,Commercial,port limits,"Raptis Wharf, Karumba",bilge,50l
-1013,19/07/2019,Gladstone,Ship,Commercial,port limits,"Rosslyn Bay Marina, Rosslyn Bay",diesel,1200l
-1014,5/08/2019,Cairns,Ship,Commercial,port limits,"Marlin Marina, Cairns",diesel,2-3l
-1015,7/08/2019,Cairns,Ship,Commercial,port limits,"Cairns Commercial Fishing Base #2, Trinity Inlet, Cairns",diesel,1000l
-1016,8/08/2019,Brisbane,Ship,Commercial,port limits,"Caltex Products Wharf, Lytton Rocks, Brisbane",other,< 20l
-1017,7/08/2019,Cairns,Ship,Commercial,port limits,"Cairns Commercial Fishing Base #2, Trinity Inlet, Cairns",diesel,10l
-1018,11/08/2019,Gladstone,Land,Unknown,port limits,"Service Pontoon, Gladstone Marina, Gladstone",diesel,100l
-1019,17/08/2019,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,40-50l
-1020,19/08/2019,Brisbane,Ship,Recreational,coastal waters,"Ephraim Island, Paradise Point",diesel,< 5l
-1021,25/08/2019,Gladstone,Ship,Commercial,port limits,"Auckland Point Berth #3, Gladstone",other,7-10 m2
-1022,27/08/2019,Brisbane,Ship,Recreational,coastal waters,"Sovereign Island bridge, Paradise Point",diesel,50m x 5m
-1023,28/08/2019,Cairns,Ship,Commercial,coastal waters,"Norman Reef, Cairns",other,6-8l
-1024,10/09/2019,Gladstone,Ship,Unknown,coastal waters,"Public Boat Ramp, Burrum River",diesel,50m x 5m
-1025,14/09/2019,Cairns,Ship,Commercial,port limits,"Lorim Point West Berth, Weipa",other,20mx  5m
-1026,18/09/2019,Brisbane,Ship,Commercial,coastal waters,"Aquatic Paradise Canal, Birkdale",other,0.5l
-1027,19/09/2019,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Gladstone",sheen,100m x 50m
-1028,4/10/2019,Gladstone,Unknown,Unknown,coastal waters,"Public Boat Ramp, Burnett River, Hervey Bay",other,3l
-1029,9/10/2019,Mackay,Ship,Recreational,coastal waters,"Coral Sea Marina, Airlie Beach",diesel,32l
-1030,12/10/2019,Brisbane,Unknown,Unknown,port limits,"Dockside Marina, Shafston Reach, Kangaroo Point",diesel,15m  wide
-1031,15/10/2019,Townsville,Unknown,Unknown,port limits,"Townsville Breakwater Marina, Townsville",sheen,<5l
-1032,24/10/2019,Brisbane,Ship,Commercial,coastal waters," 15nm E Point Cartwright, Mooloolaba",other,algal bloom
-1033,31/10/2019,Brisbane,Ship,Commercial,coastal waters,"Currimundi Reef, Caloundra, Sunshine Coast",diesel,3000m x 2000m
-1034,4/11/2019,Townsville,Land,Unknown,port limits,"Port Berth #1, Townsville",other,100ml
-1035,3/11/2019,Brisbane,Unknown,Unknown,port limits,"27 Mooloolah Drive, Minyama",sheen,<5l
-1036,15/11/2019,Cairns,Ship,Commercial,coastal waters,"Normanby Sound, Torres Strait",other,1300l
-1037,17/11/2019,Cairns,Ship,Recreational,port limits,"MSQ Marine Operations Base, Port smith, Cairns",sheen,100m x 50m
-1038,18/11/2019,Brisbane,Unknown,Unknown,coastal waters,"Offshore Kings Beach, Caloundra",other,10m x 2nm
-1039,20/11/2019,Townsville,Unknown,Unknown,port limits,"Nelly Bay Harbour, Magnetic Island",diesel,50m x 30m
-1040,21/11/2019,Brisbane,Ship,Recreational,coastal waters,"Ooncooncoo Bay, Russell Island",diesel,1m x 10m
+1012,16/07/2019,Cairns,Ship,Commercial,port limits,"Raptis Wharf, Karumba",bilge,50.0
+1013,19/07/2019,Gladstone,Ship,Commercial,port limits,"Rosslyn Bay Marina, Rosslyn Bay",diesel,1200.0
+1014,5/08/2019,Cairns,Ship,Commercial,port limits,"Marlin Marina, Cairns",diesel,2.5
+1015,7/08/2019,Cairns,Ship,Commercial,port limits,"Cairns Commercial Fishing Base #2, Trinity Inlet, Cairns",diesel,1000.0
+1016,8/08/2019,Brisbane,Ship,Commercial,port limits,"Caltex Products Wharf, Lytton Rocks, Brisbane",other,20.0
+1017,7/08/2019,Cairns,Ship,Commercial,port limits,"Cairns Commercial Fishing Base #2, Trinity Inlet, Cairns",diesel,10.0
+1018,11/08/2019,Gladstone,Land,Unknown,port limits,"Service Pontoon, Gladstone Marina, Gladstone",diesel,100.0
+1019,17/08/2019,Gladstone,Unknown,Unknown,port limits,"Gladstone Marina, Gladstone",diesel,45.0
+1020,19/08/2019,Brisbane,Ship,Recreational,coastal waters,"Ephraim Island, Paradise Point",diesel,5.0
+1021,25/08/2019,Gladstone,Ship,Commercial,port limits,"Auckland Point Berth #3, Gladstone",other,8.5
+1022,27/08/2019,Brisbane,Ship,Recreational,coastal waters,"Sovereign Island bridge, Paradise Point",diesel,0.25
+1023,28/08/2019,Cairns,Ship,Commercial,coastal waters,"Norman Reef, Cairns",other,7.0
+1024,10/09/2019,Gladstone,Ship,Unknown,coastal waters,"Public Boat Ramp, Burrum River",diesel,0.25
+1025,14/09/2019,Cairns,Ship,Commercial,port limits,"Lorim Point West Berth, Weipa",other,0.1
+1026,18/09/2019,Brisbane,Ship,Commercial,coastal waters,"Aquatic Paradise Canal, Birkdale",other,0.5
+1027,19/09/2019,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Gladstone",sheen,5.0
+1028,4/10/2019,Gladstone,Unknown,Unknown,coastal waters,"Public Boat Ramp, Burnett River, Hervey Bay",other,3.0
+1029,9/10/2019,Mackay,Ship,Recreational,coastal waters,"Coral Sea Marina, Airlie Beach",diesel,32.0
+1030,12/10/2019,Brisbane,Unknown,Unknown,port limits,"Dockside Marina, Shafston Reach, Kangaroo Point",diesel,unknown
+1031,15/10/2019,Townsville,Unknown,Unknown,port limits,"Townsville Breakwater Marina, Townsville",sheen,5.0
+1032,24/10/2019,Brisbane,Ship,Commercial,coastal waters," 15nm E Point Cartwright, Mooloolaba",other,unknown
+1033,31/10/2019,Brisbane,Ship,Commercial,coastal waters,"Currimundi Reef, Caloundra, Sunshine Coast",diesel,6000.0
+1034,4/11/2019,Townsville,Land,Unknown,port limits,"Port Berth #1, Townsville",other,unknown
+1035,3/11/2019,Brisbane,Unknown,Unknown,port limits,"27 Mooloolah Drive, Minyama",sheen,5.0
+1036,15/11/2019,Cairns,Ship,Commercial,coastal waters,"Normanby Sound, Torres Strait",other,1300.0
+1037,17/11/2019,Cairns,Ship,Recreational,port limits,"MSQ Marine Operations Base, Port smith, Cairns",sheen,5.0
+1038,18/11/2019,Brisbane,Unknown,Unknown,coastal waters,"Offshore Kings Beach, Caloundra",other,unknown
+1039,20/11/2019,Townsville,Unknown,Unknown,port limits,"Nelly Bay Harbour, Magnetic Island",diesel,1.5
+1040,21/11/2019,Brisbane,Ship,Recreational,coastal waters,"Ooncooncoo Bay, Russell Island",diesel,0.01
 1041,23/11/2019,Townsville,Unknown,Unknown,coastal waters,"Cape Upstart National Park, Cape Upstart, Townsville",sheen,unknown
-1042,25/11/2019,Brisbane,Unknown,Unknown,coastal waters,"Raby Bay, Cleveland",other,algal bloom
-1043,28/11/2019,Brisbane,Land,Unknown,port limits,"GrainCorp Liquid Terminal, Fisherman Islands",other,200+l
-1044,2/12/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Marina, Gladstone",other,500m x 50m
-1045,7/12/2019,Gladstone,Ship,Recreational,port limits,"Fodico Marina Facility, Gladstone Marina, Gladstone",diesel,10 litres
+1042,25/11/2019,Brisbane,Unknown,Unknown,coastal waters,"Raby Bay, Cleveland",other,unknown
+1043,28/11/2019,Brisbane,Land,Unknown,port limits,"GrainCorp Liquid Terminal, Fisherman Islands",other,unknown
+1044,2/12/2019,Gladstone,Ship,Commercial,port limits,"Gladstone Marina, Gladstone",other,25.0
+1045,7/12/2019,Gladstone,Ship,Recreational,port limits,"Fodico Marina Facility, Gladstone Marina, Gladstone",diesel,10.0
 1046,7/12/2019,Mackay,Land,Unknown,port limits,"Marine Transit Terminal, Airlie Beach",other,unknown
-1047,9/12/2019,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Cairns",other,30l
-1048,11/12/2019,Brisbane,Ship,Recreational,port limits,"Beachmere boat ramp,  Caboolture River, vessel sunk",other,none
-1049,12/12/2019,Cairns,Land,Unknown,port limits,"Trinity Wharf #4, Cairns",diesel,1l
-1050,14/12/2019,Brisbane,Ship,Recreational,port limits,"Weinam Creek, Redland Bay",diesel,1500l
-1051,16/12/2019,Cairns,Ship,Unknown,port limits,Inner GBR route off Mourilyan,other,oily rags
-1052,5/01/2020,Brisbane,Ship,Recreational,port limits,"Private Pontoon, Banksia Beach",diesel,600m x 60m
+1047,9/12/2019,Cairns,Ship,Commercial,port limits,"Trinity Wharf, Cairns",other,30.0
+1048,11/12/2019,Brisbane,Ship,Recreational,port limits,"Beachmere boat ramp,  Caboolture River, vessel sunk",other,unknown
+1049,12/12/2019,Cairns,Land,Unknown,port limits,"Trinity Wharf #4, Cairns",diesel,1.0
+1050,14/12/2019,Brisbane,Ship,Recreational,port limits,"Weinam Creek, Redland Bay",diesel,1500.0
+1051,16/12/2019,Cairns,Ship,Unknown,port limits,Inner GBR route off Mourilyan,other,unknown
+1052,5/01/2020,Brisbane,Ship,Recreational,port limits,"Private Pontoon, Banksia Beach",diesel,36.0
 1053,7/01/2020,Townsville,Unknown,Unknown,port limits,"West Point, Magnetic Island",diesel,unknown
-1054,8/01/2020,Mackay,Ship,Recreational,port limits,"Mackay Marina, Mackay",other,1 cubic metre
-1055,9/01/2020,Cairns,Ship,Commercial,port limits,"Ship Yard, Thursday Island",bilge,3m x 50m
-1056,16/01/2020,Brisbane,Unknown,Unknown,port limits,"Calypso Bay Marina, Jacobs Well",sheen,20m x 5m
-1057,17/01/2020,Mackay,Land,Unknown,port limits,"Barge loading terminal, Shute Harbour",other,40l
-1058,23/01/2020,Cairns,Ship,Commercial,port limits,"Trinity Wharf #1, Cairns",diesel,2l
+1054,8/01/2020,Mackay,Ship,Recreational,port limits,"Mackay Marina, Mackay",other,unknown
+1055,9/01/2020,Cairns,Ship,Commercial,port limits,"Ship Yard, Thursday Island",bilge,0.15
+1056,16/01/2020,Brisbane,Unknown,Unknown,port limits,"Calypso Bay Marina, Jacobs Well",sheen,0.1
+1057,17/01/2020,Mackay,Land,Unknown,port limits,"Barge loading terminal, Shute Harbour",other,40.0
+1058,23/01/2020,Cairns,Ship,Commercial,port limits,"Trinity Wharf #1, Cairns",diesel,2.0
 1059,29/01/2020,Brisbane,Ship,Unknown,coastal waters,"Horseshoe Bay, Peel Island, Moreton Bay",diesel,unknown
-1060,29/01/2020,Brisbane,Unknown,Unknown,coastal waters,"Yidney Rocks, Fraser Island",other,300 l
-1061,12/02/2020,Gladstone,Unknown,Unknown,port limits,"Hervey Bay Marina, Hervey Bay",sheen,100m x 75m
-1062,13/02/2020,Brisbane,Ship,Recreational,port limits,"Blair Athol Crescent,  Bundall",sheen,2m x 10m
-1063,14/02/2020,Brisbane,Ship,Unknown,port limits,"Russell Island Ferry Terminal , Russel Island",sheen,200 x 20m
-1064,15/02/2020,Cairns,Ship,Recreational,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,10l
-1065,24/02/2020,Brisbane,Unknown,Commercial,port limits,"Commercial fishing wharves, Mooloolah River",sheen,50m x 15m
-1066,3/03/2020,Brisbane,Ship,Commercial,port limits,"Queens Wharf Project, Brisbane River",bilge,150m x 2m
-1067,5/03/2020,Mackay,Ship,Commercial,port limits,"Berth 1 bunker wharf, Hay point",diesel,1l
+1060,29/01/2020,Brisbane,Unknown,Unknown,coastal waters,"Yidney Rocks, Fraser Island",other,300.0
+1061,12/02/2020,Gladstone,Unknown,Unknown,port limits,"Hervey Bay Marina, Hervey Bay",sheen,7.5
+1062,13/02/2020,Brisbane,Ship,Recreational,port limits,"Blair Athol Crescent,  Bundall",sheen,0.02
+1063,14/02/2020,Brisbane,Ship,Unknown,port limits,"Russell Island Ferry Terminal , Russel Island",sheen,4.0
+1064,15/02/2020,Cairns,Ship,Recreational,port limits,"Smiths Creek, Trinity Inlet, Cairns",sheen,10.0
+1065,24/02/2020,Brisbane,Unknown,Commercial,port limits,"Commercial fishing wharves, Mooloolah River",sheen,0.75
+1066,3/03/2020,Brisbane,Ship,Commercial,port limits,"Queens Wharf Project, Brisbane River",bilge,0.3
+1067,5/03/2020,Mackay,Ship,Commercial,port limits,"Berth 1 bunker wharf, Hay point",diesel,1.0
 1068,6/03/2020,Gladstone,Ship,Recreational,port limits,"Turan Creek, Sandy Straits",sheen,unknown
 1069,5/03/2020,Brisbane,Unknown,Unknown,coastal waters,"Entrance Channel, Brisbane",other,unknown
 1070,15/03/2020,Gladstone,Ship,Commercial,coastal waters,"Shipping Channel, 150Km's east of Gladstone",other,unknown
-1071,16/03/2020,Brisbane,Unknown,Unknown,port limits,"Commercial fishing wharves, Mooloolah River , Mooloolaba",sheen,30mx 10m
-1072,19/03/2020,Cairns,Unknown,Unknown,port limits,"Cairns Port #11-#12 berths , Cairns",diesel,50m wide
-1073,29/03/2020,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Clinton Swing Basin, Gladstone",hydraulic oil,<2 litres
-1074,10/04/2020,Brisbane,Ship,Recreational,port limits,"Currigee Inlet, South Stradbroke Island",diesel,30m x 2 m
-1075,14/04/2020,Gladstone,Ship,Recreational,port limits,"Gladstone Marina T finger, Gladstone",diesel,1 litre
-1076,16/04/2020,Cairns,Ship,Commercial,coastal waters,"Horn Island anchorage, Torres Strait",diesel,80 litres
-1077,21/04/2020,Brisbane,Ship,Commercial,port limits,"Tug Base White Island , Brisbane",hydraulic oil,0.5 litres
-1078,26/04/2020,Cairns,Ship,Commercial,port limits,"Fisherman's Base Berth B21, Cairns",diesel,10 x 10 m
-1079,28/04/2020,Brisbane,Ship,Commercial,port limits,"Quarries Reach, Brisbane River, Brisbane",other,150x5m
-1080,2/05/2020,Gladstone,Ship,Recreational,port limits,"Tewah Creek, Tin Can Bay",other,nil
-1081,15/05/2020,Gladstone,Ship,Commercial,port limits,"Clinton Swing Basin, Gladstone",hydraulic oil,10 litres
-1082,20/05/2020,Brisbane,Unknown,Commercial,port limits,"Commercial Fishing Wharves, Mooloolah River, Mooloolaba",diesel,50m x 20m
-1083,21/05/2020,Gladstone,Ship,Commercial,port limits,"Gladstone Port Limits, Gladstone",hydraulic oil,500ml to 1 litre
-1084,29/05/2020,Brisbane,Ship,Commercial,port limits,"Spinnaker Sound Marina, Sandstone Point",bilge,2-6 litres
-1085,6/01/2020,Gladstone,Unknown,Unknown,port limits,"Capricorn Coast Yacht Club, Keppel Bay Marina, Rosslyn Bay",bilge,1 litre
-1086,6/01/2020,Gladstone,Unknown,Unknown,port limits,"Snapper Creek, Tin Can Bay",diesel,100m x 2 m
-1087,6/02/2020,Brisbane,Ship,Commercial,port limits,"Hope Island Harbour Marina, Hope Island",diesel,200 litres
-1088,6/02/2020,Gladstone,Ship,Unknown,port limits,"Keppel Bay Marina, Rosslyn Bay",bilge,1/2 litre
-1089,6/03/2020,Brisbane,Ship,Commercial,port limits,"Fisherman Islands, Port of Brisbane",other,20 to 30 litres
-1090,6/12/2020,Brisbane,Ship,Commercial,port limits,"Bulimba Creek, Bulimba, Brisbane",diesel,<5 litres
-1091,13/06/2020,Gladstone,Unknown,Unknown,coastal waters,"Gladstone Harbour, 2 way route, Gladstone",unknown,1nm wide & long
-1092,13/06/2020,Cairns,Ship,Recreational,coastal waters,"Arlington Reef, Grafton Passage, Cairns",unknown,75 litres
-1093,15/06/2020,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Gladstone",other,<90 litres
-1094,16/06/2020,Townsville,Ship,Commercial,port limits,"Breakwater Terminal, Ross Creek, Townsville",other,> 100 litres
-1095,16/06/2020,Brisbane,Ship,Commercial,port limits,"Fisherman Island 3 berth, Port of Brisbane",hydraulic oil,100- 200ml
-1096,23/06/2020,Cairns,Unknown,Unknown,port limits,"Cairns Marlin Marina, Cairns",diesel,3-5 litres
-1097,29/06/2020,Cairns,Land,Unknown,port limits,"Cairns Marlin Marina Sail fish Quays , Cairns",diesel,2-3 litres
+1071,16/03/2020,Brisbane,Unknown,Unknown,port limits,"Commercial fishing wharves, Mooloolah River , Mooloolaba",sheen,0.3
+1072,19/03/2020,Cairns,Unknown,Unknown,port limits,"Cairns Port #11-#12 berths , Cairns",diesel,unknown
+1073,29/03/2020,Gladstone,Ship,Commercial,port limits,"Gladstone Harbour, Clinton Swing Basin, Gladstone",hydraulic oil,2.0
+1074,10/04/2020,Brisbane,Ship,Recreational,port limits,"Currigee Inlet, South Stradbroke Island",diesel,0.06
+1075,14/04/2020,Gladstone,Ship,Recreational,port limits,"Gladstone Marina T finger, Gladstone",diesel,1.0
+1076,16/04/2020,Cairns,Ship,Commercial,coastal waters,"Horn Island anchorage, Torres Strait",diesel,80.0
+1077,21/04/2020,Brisbane,Ship,Commercial,port limits,"Tug Base White Island , Brisbane",hydraulic oil,0.5
+1078,26/04/2020,Cairns,Ship,Commercial,port limits,"Fisherman's Base Berth B21, Cairns",diesel,0.1
+1079,28/04/2020,Brisbane,Ship,Commercial,port limits,"Quarries Reach, Brisbane River, Brisbane",other,0.75
+1080,2/05/2020,Gladstone,Ship,Recreational,port limits,"Tewah Creek, Tin Can Bay",other,unknown
+1081,15/05/2020,Gladstone,Ship,Commercial,port limits,"Clinton Swing Basin, Gladstone",hydraulic oil,10.0
+1082,20/05/2020,Brisbane,Unknown,Commercial,port limits,"Commercial Fishing Wharves, Mooloolah River, Mooloolaba",diesel,1.0
+1083,21/05/2020,Gladstone,Ship,Commercial,port limits,"Gladstone Port Limits, Gladstone",hydraulic oil,unknown
+1084,29/05/2020,Brisbane,Ship,Commercial,port limits,"Spinnaker Sound Marina, Sandstone Point",bilge,4.0
+1085,6/01/2020,Gladstone,Unknown,Unknown,port limits,"Capricorn Coast Yacht Club, Keppel Bay Marina, Rosslyn Bay",bilge,1.0
+1086,6/01/2020,Gladstone,Unknown,Unknown,port limits,"Snapper Creek, Tin Can Bay",diesel,0.2
+1087,6/02/2020,Brisbane,Ship,Commercial,port limits,"Hope Island Harbour Marina, Hope Island",diesel,200.0
+1088,6/02/2020,Gladstone,Ship,Unknown,port limits,"Keppel Bay Marina, Rosslyn Bay",bilge,unknown
+1089,6/03/2020,Brisbane,Ship,Commercial,port limits,"Fisherman Islands, Port of Brisbane",other,unknown
+1090,6/12/2020,Brisbane,Ship,Commercial,port limits,"Bulimba Creek, Bulimba, Brisbane",diesel,5.0
+1091,13/06/2020,Gladstone,Unknown,Unknown,coastal waters,"Gladstone Harbour, 2 way route, Gladstone",unknown,unknown
+1092,13/06/2020,Cairns,Ship,Recreational,coastal waters,"Arlington Reef, Grafton Passage, Cairns",unknown,75.0
+1093,15/06/2020,Gladstone,Ship,Recreational,port limits,"Gladstone Marina, Gladstone",other,90.0
+1094,16/06/2020,Townsville,Ship,Commercial,port limits,"Breakwater Terminal, Ross Creek, Townsville",other,100.0
+1095,16/06/2020,Brisbane,Ship,Commercial,port limits,"Fisherman Island 3 berth, Port of Brisbane",hydraulic oil,150.0
+1096,23/06/2020,Cairns,Unknown,Unknown,port limits,"Cairns Marlin Marina, Cairns",diesel,4.0
+1097,29/06/2020,Cairns,Land,Unknown,port limits,"Cairns Marlin Marina Sail fish Quays , Cairns",diesel,2.5
